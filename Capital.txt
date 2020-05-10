@@ -1,0 +1,17 @@
+This will ask about world capitals.
+What is the capital of France?,Paris
+What is the capital of Egypt?,Cairo
+What is the capital of China?,Beijing
+What is the capital of Chile?,Santiago
+What is the capital of France?,Paris
+What is the capital of India?,New Delhi
+What is the capital of Japan?,Tokyo
+What is the capital of Qatar?,Doha
+What country has Tokyo as a capital?,Japan
+What country has Lima as a capital?,Peru
+What country has Paris as a capital?,France
+What country has Cairo as a capital?,Egypt
+What country has Beijing as a capital?,China
+What country has Santiago as a capital?,Chile
+What country has New Delhi as a capital?,India
+What country has Doha as a capital?,Qatar

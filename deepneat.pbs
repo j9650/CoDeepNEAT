@@ -1,0 +1,37 @@
+#!/bin/bash
+#PBS -A cyberlamp
+#PBS -l nodes=1:ppn=10
+#PBS -l walltime=100:00:00
+#PBS -N rmsd
+cd $PBS_O_WORKDIR
+
+source /gpfs/group/mtk2/cyberstar/hzj5142/DeepNEAT/Keras-CoDeepNEAT/env
+source activate tensorflow-1.13
+
+#export OMP_NUM_THREADS=$arg1
+
+#thread_num=$arg1
+
+for thread_num in 4
+do
+python /gpfs/group/mtk2/cyberstar/hzj5142/DeepNEAT/Keras-CoDeepNEAT/example_scripts/run_mnist.py $thread_num 2 8
+done
+#tt=$(cat /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/pdbbind_list)
+#for i in $tt; do echo $i; done >& /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/outputTrace.txt
+#for i in $tt; do echo $i; /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/medusa-mpi/bin/medusa dock -p /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/data/parameter -i /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/pdbbind/$i/$i.rec.pdb -m /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/pdbbind/$i/$i.lig.mol2 -o /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/pdbbind_output/$i.pdb -R -fast; done >& /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/outputTrace.txt
+
+#sh /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/sb.sh
+
+#python -c "print(10)"
+#python -c "import tensorflow as tf"
+#python -c "print(10)"
+#python /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/test_atom.py /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/rec_list /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/DUDE/all/abl1
+#python test_atom.py /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_rec /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/DUDE 30
+
+#python test_atom.py /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind_test /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind_test_label /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/pdbbind_output/ /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/pdbbind/ 20
+
+
+#python test_atom_rmsd.py /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind_train /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind_train_label /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/medusa/pdbbind_output/ /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/pdbbind/ 20 /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind_rmsd_srand2 /gpfs/group/mtk2/cyberstar/hzj5142/AtomNet/AtomNet/tmp_data/pdbbind/model_rmsd_srand_regression_5conv_50epoch 
+
+exit 0
+

@@ -1,0 +1,992 @@
+WARNING - 2020-05-05 17:25:01,595: This will get logged to a file
+INFO - 2020-05-05 17:25:01,596: Hi, this is a test run.
+TOPOLOGY - 2020-05-05 17:25:01,596: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:06,706: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:06,984: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:07,266: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:07,547: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:07,805: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:08,081: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:08,366: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:08,648: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:09,000: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:09,278: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:09,631: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:09,894: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:10,171: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:10,433: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:10,711: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:10,974: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:11,255: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:11,530: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:11,866: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:12,142: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:12,422: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:12,680: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:12,966: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:13,225: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:13,507: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:13,789: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:14,075: Generating 2 components
+TOPOLOGY - 2020-05-05 17:25:14,353: Generating 3 components
+TOPOLOGY - 2020-05-05 17:25:14,636: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:15,009: KMeans generated 3 species using: [(3, 2, 102), (2, 1, 80), (3, 2, 84), (3, 2, 83), (1, 0, 28), (2, 1, 66), (3, 2, 112), (3, 2, 92), (1, 0, 34), (2, 1, 68), (2, 1, 74), (1, 0, 29), (2, 1, 82), (1, 0, 38), (2, 1, 64), (1, 0, 19), (3, 2, 80), (3, 2, 90), (2, 1, 60), (2, 1, 69), (2, 1, 66), (1, 0, 26), (3, 2, 79), (1, 0, 24), (3, 2, 89), (3, 2, 99), (3, 2, 97), (2, 1, 45), (3, 2, 120), (1, 0, 38)].
+TOPOLOGY - 2020-05-05 17:25:15,009: Created 3 module species.
+TOPOLOGY - 2020-05-05 17:25:15,009: Module species 0: [2, 6, 10, 11, 13, 15, 19, 20, 21, 28]
+TOPOLOGY - 2020-05-05 17:25:15,009: Module species 1: [1, 3, 4, 7, 8, 17, 18, 23, 25, 26, 27, 29]
+TOPOLOGY - 2020-05-05 17:25:15,009: Module species 2: [5, 9, 12, 14, 16, 22, 24, 30]
+TOPOLOGY - 2020-05-05 17:25:15,009: Generating 2 modules
+TOPOLOGY - 2020-05-05 17:25:15,009: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:15,271: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:15,822: Generating 1 modules
+TOPOLOGY - 2020-05-05 17:25:15,822: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:16,078: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:16,626: Generating 3 modules
+TOPOLOGY - 2020-05-05 17:25:16,627: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:16,887: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:17,534: Generating 2 modules
+TOPOLOGY - 2020-05-05 17:25:17,534: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:17,793: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:18,348: Generating 3 modules
+TOPOLOGY - 2020-05-05 17:25:18,348: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:18,605: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:19,164: Generating 1 modules
+TOPOLOGY - 2020-05-05 17:25:19,164: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:19,422: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:19,967: Generating 1 modules
+TOPOLOGY - 2020-05-05 17:25:19,967: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:20,226: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:20,770: Generating 3 modules
+TOPOLOGY - 2020-05-05 17:25:20,770: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:21,034: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:21,586: Generating 1 modules
+TOPOLOGY - 2020-05-05 17:25:21,586: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:21,847: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:22,382: Generating 3 modules
+TOPOLOGY - 2020-05-05 17:25:22,382: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:22,638: Generating 1 components
+TOPOLOGY - 2020-05-05 17:25:23,211: KMeans generated 3 species using: [(4, 3, 309), (3, 2, 313), (5, 4, 341), (4, 3, 296), (5, 4, 409), (3, 2, 398), (3, 2, 285), (5, 4, 436), (3, 2, 249), (5, 4, 385)].
+TOPOLOGY - 2020-05-05 17:25:23,211: Created 3 blueprint species.
+TOPOLOGY - 2020-05-05 17:25:23,211: Blueprint species 0: [1, 4]
+TOPOLOGY - 2020-05-05 17:25:23,212: Blueprint species 1: [3, 5, 8, 10]
+TOPOLOGY - 2020-05-05 17:25:23,212: Blueprint species 2: [2, 6, 7, 9]
+INFO - 2020-05-05 17:25:23,212: Iterating over 2 generations
+INFO - 2020-05-05 17:25:23,217:  -- Iterating generation 0 -- 
+TOPOLOGY - 2020-05-05 17:25:23,217: Currently 30 modules, 10 blueprints, latest iteration: None
+TOPOLOGY - 2020-05-05 17:25:23,217: Current modules: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+TOPOLOGY - 2020-05-05 17:25:23,217: Current blueprints: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+TOPOLOGY - 2020-05-05 17:25:23,276: Created individuals for blueprints: [(1, 9), (2, 4), (3, 1), (4, 8), (5, 3), (6, 2), (7, 10), (8, 5)]
+INFO - 2020-05-05 17:25:23,276: Iterating fitness over 8 individuals
+WARNING - 2020-05-05 17:25:23,337: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+WARNING - 2020-05-05 17:25:23,343: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+WARNING - 2020-05-05 17:25:23,351: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+WARNING - 2020-05-05 17:25:23,532: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+INFO - 2020-05-05 17:25:23,844: Fitting one individual for 2 epochs
+INFO - 2020-05-05 17:25:23,844: Fitting one individual for 2 epochs
+INFO - 2020-05-05 17:25:23,844: Fitting one individual for 2 epochs
+INFO - 2020-05-05 17:25:23,844: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:25:23,844: Starting assembling of blueprint 9.
+TOPOLOGY - 2020-05-05 17:25:23,844: Starting assembling of blueprint 4.
+TOPOLOGY - 2020-05-05 17:25:23,844: Starting assembling of blueprint 8.
+TOPOLOGY - 2020-05-05 17:25:23,844: Starting assembling of blueprint 1.
+TOPOLOGY - 2020-05-05 17:25:24,395: Generated the assembled graph for blueprint 9: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'output-0-0']
+INFO - 2020-05-05 17:25:24,396: Generating keras layers
+INFO - 2020-05-05 17:25:24,396: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:25:24,401: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:24,402: input-0-0: Working on conv2d_2c4b3210084f4419848436f6287086e0. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:24,407: Generated the assembled graph for blueprint 4: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'output-0-0']
+INFO - 2020-05-05 17:25:24,407: Generating keras layers
+INFO - 2020-05-05 17:25:24,407: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:25:24,412: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:24,413: Generated the assembled graph for blueprint 1: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'intermed-1-0', 'intermed-1-1', 'output-0-0']
+INFO - 2020-05-05 17:25:24,413: Generating keras layers
+INFO - 2020-05-05 17:25:24,413: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:25:24,413: input-0-0: Working on conv2d_217a12ad1ae84a4db0e45758e2a9919d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 56, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:24,417: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:24,419: input-0-0: Working on conv2d_a65f9f5cb587444d847b7d7d2cc8eda1. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 57, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:24,428: Generated the assembled graph for blueprint 8: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'intermed-1-0', 'intermed-2-0', 'intermed-2-1', 'output-0-0']
+INFO - 2020-05-05 17:25:24,428: Generating keras layers
+INFO - 2020-05-05 17:25:24,428: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:25:24,432: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:24,434: input-0-0: Working on conv2d_1701afc7757b43b7b0688bb1e5c14ccc. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 20, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,681: input-0-0: Added [<tf.Tensor 'conv2d_a65f9f5cb587444d847b7d7d2cc8eda1/Identity:0' shape=(None, 28, 28, 57) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,681: input-0-0: Added [<tf.Tensor 'conv2d_2c4b3210084f4419848436f6287086e0/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,681: input-0-0: Added [<tf.Tensor 'conv2d_217a12ad1ae84a4db0e45758e2a9919d/Identity:0' shape=(None, 28, 28, 56) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,681: input-0-0: Added [<tf.Tensor 'conv2d_1701afc7757b43b7b0688bb1e5c14ccc/Identity:0' shape=(None, 28, 28, 20) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: Working on conv2d_1_3e5db1f711f84e2c8326c89ae21b3687. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 17, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: Working on conv2d_1_a5608f13cd95410581ae2cd5249899b3. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: Working on conv2d_1_fa7b8eaec81840459b321f04d1cdaf61. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 19, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: Working on conv2d_1_8c8ad462936a47f282a3cf81a2700727. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 39, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: is conv2d_2c4b3210084f4419848436f6287086e0/Identity:0 conv2d: True. is conv2d_1_3e5db1f711f84e2c8326c89ae21b3687 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: is conv2d_a65f9f5cb587444d847b7d7d2cc8eda1/Identity:0 conv2d: True. is conv2d_1_8c8ad462936a47f282a3cf81a2700727 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: is conv2d_217a12ad1ae84a4db0e45758e2a9919d/Identity:0 conv2d: True. is conv2d_1_fa7b8eaec81840459b321f04d1cdaf61 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,683: intermed-0-0: is conv2d_1701afc7757b43b7b0688bb1e5c14ccc/Identity:0 conv2d: True. is conv2d_1_a5608f13cd95410581ae2cd5249899b3 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,689: intermed-0-0: Added [<tf.Tensor 'conv2d_1_fa7b8eaec81840459b321f04d1cdaf61/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,689: intermed-0-0: Added [<tf.Tensor 'conv2d_1_a5608f13cd95410581ae2cd5249899b3/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,689: intermed-0-0: Added [<tf.Tensor 'conv2d_1_3e5db1f711f84e2c8326c89ae21b3687/Identity:0' shape=(None, 28, 28, 17) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,689: intermed-0-0: Added [<tf.Tensor 'conv2d_1_8c8ad462936a47f282a3cf81a2700727/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,770: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_3e5db1f711f84e2c8326c89ae21b3687/Identity:0' shape=(None, 28, 28, 17) dtype=float32>, <tf.Tensor 'dropout_6c7e645e322f4a98a4d36200fa5cebbf/Identity:0' shape=(None, 28, 28, 17) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,770: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_8c8ad462936a47f282a3cf81a2700727/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_3fa8691ecb3844e18596d99330616ac5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,770: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_a5608f13cd95410581ae2cd5249899b3/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_0e061116d28e45bfb0d8893665ef45e6/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,770: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_fa7b8eaec81840459b321f04d1cdaf61/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_928d02accc334796acd7e3821c386d79/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,771: intermed-1-0: Working on conv2d_2_9070619ea6304c8883dec8a4e45163a0. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,771: intermed-0-1: Working on conv2d_2_3443567e4fac41d18643f391b16dd68d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,771: intermed-0-1: Working on conv2d_2_c825b842f25d4ebdb22a844393561029. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 23, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,771: intermed-0-1: Working on conv2d_2_81e8996501714222a9c8b0f16474c443. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 21, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,772: intermed-1-0: is conv2d_1_fa7b8eaec81840459b321f04d1cdaf61/Identity:0 conv2d: True. is conv2d_2_9070619ea6304c8883dec8a4e45163a0 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,772: intermed-0-1: is conv2d_1_3e5db1f711f84e2c8326c89ae21b3687/Identity:0 conv2d: True. is conv2d_2_81e8996501714222a9c8b0f16474c443 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,772: intermed-0-1: is conv2d_1_8c8ad462936a47f282a3cf81a2700727/Identity:0 conv2d: True. is conv2d_2_3443567e4fac41d18643f391b16dd68d dense: False
+TOPOLOGY - 2020-05-05 17:25:25,772: intermed-0-1: is conv2d_1_a5608f13cd95410581ae2cd5249899b3/Identity:0 conv2d: True. is conv2d_2_c825b842f25d4ebdb22a844393561029 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,778: intermed-1-0: Added [<tf.Tensor 'conv2d_2_9070619ea6304c8883dec8a4e45163a0/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,778: intermed-0-1: Added [<tf.Tensor 'conv2d_2_81e8996501714222a9c8b0f16474c443/Identity:0' shape=(None, 28, 28, 21) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,778: intermed-0-1: Added [<tf.Tensor 'conv2d_2_c825b842f25d4ebdb22a844393561029/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,778: intermed-0-1: Added [<tf.Tensor 'conv2d_2_3443567e4fac41d18643f391b16dd68d/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,791: intermed-1-0: Added complement [<tf.Tensor 'conv2d_2_9070619ea6304c8883dec8a4e45163a0/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_e6417d23141842759109e34577eeb425/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,791: intermed-0-1: Added complement [<tf.Tensor 'conv2d_2_81e8996501714222a9c8b0f16474c443/Identity:0' shape=(None, 28, 28, 21) dtype=float32>, <tf.Tensor 'dropout_1_ab7f077e12344c1188c80984645fa4f9/Identity:0' shape=(None, 28, 28, 21) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,791: intermed-0-1: Added complement [<tf.Tensor 'conv2d_2_c825b842f25d4ebdb22a844393561029/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_1_2b85f3b1dd7140ec9908555fb9d56663/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,791: intermed-0-1: Added complement [<tf.Tensor 'conv2d_2_3443567e4fac41d18643f391b16dd68d/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_90f42ec609d040cc9df1fa93ec751dd1/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-1-1: Working on conv2d_3_07aa4886f22542d5b8dace48c29fca19. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 23, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: Working on conv2d_3_c8dbb79411b8496686f012f007065577. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 46, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-1-1: is conv2d_2_9070619ea6304c8883dec8a4e45163a0/Identity:0 conv2d: True. is conv2d_3_07aa4886f22542d5b8dace48c29fca19 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: is conv2d_2_81e8996501714222a9c8b0f16474c443/Identity:0 conv2d: True. is conv2d_3_c8dbb79411b8496686f012f007065577 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: Working on conv2d_3_435413ea85154e33b6190bfa8b962b23. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 39, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: Working on conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 16, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: is conv2d_2_c825b842f25d4ebdb22a844393561029/Identity:0 conv2d: True. is conv2d_3_435413ea85154e33b6190bfa8b962b23 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,792: intermed-0-2: is conv2d_2_3443567e4fac41d18643f391b16dd68d/Identity:0 conv2d: True. is conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,797: intermed-0-2: Added [<tf.Tensor 'conv2d_3_c8dbb79411b8496686f012f007065577/Identity:0' shape=(None, 28, 28, 46) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,797: intermed-1-1: Added [<tf.Tensor 'conv2d_3_07aa4886f22542d5b8dace48c29fca19/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,797: intermed-0-2: Added [<tf.Tensor 'conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,798: intermed-0-2: Added [<tf.Tensor 'conv2d_3_435413ea85154e33b6190bfa8b962b23/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,809: intermed-1-1: Added complement [<tf.Tensor 'conv2d_3_07aa4886f22542d5b8dace48c29fca19/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_2_b42814aa682c4dc1a4314870ddf368b9/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,809: intermed-0-2: Added complement [<tf.Tensor 'conv2d_3_c8dbb79411b8496686f012f007065577/Identity:0' shape=(None, 28, 28, 46) dtype=float32>, <tf.Tensor 'dropout_2_2a464c903f924e9b9bb639f1c5bf9d02/Identity:0' shape=(None, 28, 28, 46) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,809: intermed-0-2: Added complement [<tf.Tensor 'conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_2_a04279d91c074cc8b14462ecbe612c22/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,809: intermed-0-2: Added complement [<tf.Tensor 'conv2d_3_435413ea85154e33b6190bfa8b962b23/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_2_0aaa9999ee374359b7058eeee23f71c5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-2: Working on conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 41, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-2: is conv2d_3_07aa4886f22542d5b8dace48c29fca19/Identity:0 conv2d: True. is conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe dense: False
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-0: Working on conv2d_4_99de222b7b004870ad31739927aef2d5. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 39, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-0: is conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4/Identity:0 conv2d: True. is conv2d_4_99de222b7b004870ad31739927aef2d5 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-0: Working on conv2d_4_7cd6fb82313c48359ba114fd3ad50325. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 24, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,810: output-0-0: Working on dense_8326cfa56618479e9175432ecfbf6e89. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 131, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,810: intermed-1-0: is conv2d_3_435413ea85154e33b6190bfa8b962b23/Identity:0 conv2d: True. is conv2d_4_7cd6fb82313c48359ba114fd3ad50325 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,810: output-0-0: is conv2d_3_c8dbb79411b8496686f012f007065577/Identity:0 conv2d: True. is dense_8326cfa56618479e9175432ecfbf6e89 dense: True
+INFO - 2020-05-05 17:25:25,810: Adding a Flatten() layer between conv2d_3_c8dbb79411b8496686f012f007065577/Identity:0 and dense_8326cfa56618479e9175432ecfbf6e89
+TOPOLOGY - 2020-05-05 17:25:25,813: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 36064) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,815: intermed-1-2: Added [<tf.Tensor 'conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,816: intermed-1-0: Added [<tf.Tensor 'conv2d_4_99de222b7b004870ad31739927aef2d5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,816: intermed-1-0: Added [<tf.Tensor 'conv2d_4_7cd6fb82313c48359ba114fd3ad50325/Identity:0' shape=(None, 28, 28, 24) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,827: intermed-1-2: Added complement [<tf.Tensor 'conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_3_33d987b7571e40828f37ee7ad69ce9a6/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,828: intermed-1-0: Added complement [<tf.Tensor 'conv2d_4_99de222b7b004870ad31739927aef2d5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_3_7cad049ef84a4fe983d720a1eaa34400/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,828: intermed-1-0: Added complement [<tf.Tensor 'conv2d_4_7cd6fb82313c48359ba114fd3ad50325/Identity:0' shape=(None, 28, 28, 24) dtype=float32>, <tf.Tensor 'dropout_3_a6cdccec518b49bfaa57679b75f59a5b/Identity:0' shape=(None, 28, 28, 24) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,829: output-0-0: Working on dense_bebe9ac65a164f2892075348f55ad18b. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 129, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,829: intermed-1-1: Working on conv2d_5_43b61594bc974ee589e0486cb546539e. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 27, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,829: output-0-0: is conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe/Identity:0 conv2d: True. is dense_bebe9ac65a164f2892075348f55ad18b dense: True
+TOPOLOGY - 2020-05-05 17:25:25,829: intermed-1-1: is conv2d_4_99de222b7b004870ad31739927aef2d5/Identity:0 conv2d: True. is conv2d_5_43b61594bc974ee589e0486cb546539e dense: False
+INFO - 2020-05-05 17:25:25,829: Adding a Flatten() layer between conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe/Identity:0 and dense_bebe9ac65a164f2892075348f55ad18b
+TOPOLOGY - 2020-05-05 17:25:25,829: intermed-2-0: Working on conv2d_5_7d30514318394355a5814d4605796adf. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 44, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,829: intermed-2-0: is conv2d_4_7cd6fb82313c48359ba114fd3ad50325/Identity:0 conv2d: True. is conv2d_5_7d30514318394355a5814d4605796adf dense: False
+TOPOLOGY - 2020-05-05 17:25:25,831: output-0-0: Added [<tf.Tensor 'dense_8326cfa56618479e9175432ecfbf6e89/Identity:0' shape=(None, 131) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,832: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 32144) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,835: intermed-1-1: Added [<tf.Tensor 'conv2d_5_43b61594bc974ee589e0486cb546539e/Identity:0' shape=(None, 28, 28, 27) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,835: intermed-2-0: Added [<tf.Tensor 'conv2d_5_7d30514318394355a5814d4605796adf/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,836: output-0-0: Added complement [<tf.Tensor 'dense_8326cfa56618479e9175432ecfbf6e89/Identity:0' shape=(None, 131) dtype=float32>, <tf.Tensor 'dense_1_536123ba0f494c619f77e916c874c082/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,838: {'input-0-0': [<tf.Tensor 'conv2d_2c4b3210084f4419848436f6287086e0/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_3e5db1f711f84e2c8326c89ae21b3687/Identity:0' shape=(None, 28, 28, 17) dtype=float32>, <tf.Tensor 'dropout_6c7e645e322f4a98a4d36200fa5cebbf/Identity:0' shape=(None, 28, 28, 17) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_2_81e8996501714222a9c8b0f16474c443/Identity:0' shape=(None, 28, 28, 21) dtype=float32>, <tf.Tensor 'dropout_1_ab7f077e12344c1188c80984645fa4f9/Identity:0' shape=(None, 28, 28, 21) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_3_c8dbb79411b8496686f012f007065577/Identity:0' shape=(None, 28, 28, 46) dtype=float32>, <tf.Tensor 'dropout_2_2a464c903f924e9b9bb639f1c5bf9d02/Identity:0' shape=(None, 28, 28, 46) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_8326cfa56618479e9175432ecfbf6e89/Identity:0' shape=(None, 131) dtype=float32>, <tf.Tensor 'dense_1_536123ba0f494c619f77e916c874c082/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:25:25,838: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_536123ba0f494c619f77e916c874c082/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:25,847: output-0-0: Added [<tf.Tensor 'dense_bebe9ac65a164f2892075348f55ad18b/Identity:0' shape=(None, 129) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,847: intermed-1-1: Added complement [<tf.Tensor 'conv2d_5_43b61594bc974ee589e0486cb546539e/Identity:0' shape=(None, 28, 28, 27) dtype=float32>, <tf.Tensor 'dropout_4_714fcb5c83584548b84ff99473d7cdaf/Identity:0' shape=(None, 28, 28, 27) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,847: intermed-2-0: Added complement [<tf.Tensor 'conv2d_5_7d30514318394355a5814d4605796adf/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_4_c9a403c0d1c54465a066dbbaf6b59161/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,848: output-0-0: Working on dense_bd3adcc21ce443f4b42df584d779afdd. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 103, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,848: intermed-2-1: Working on conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 16, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,848: output-0-0: is conv2d_5_43b61594bc974ee589e0486cb546539e/Identity:0 conv2d: True. is dense_bd3adcc21ce443f4b42df584d779afdd dense: True
+INFO - 2020-05-05 17:25:25,849: Adding a Flatten() layer between conv2d_5_43b61594bc974ee589e0486cb546539e/Identity:0 and dense_bd3adcc21ce443f4b42df584d779afdd
+TOPOLOGY - 2020-05-05 17:25:25,849: intermed-2-1: is conv2d_5_7d30514318394355a5814d4605796adf/Identity:0 conv2d: True. is conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8 dense: False
+TOPOLOGY - 2020-05-05 17:25:25,851: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 21168) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,852: output-0-0: Added complement [<tf.Tensor 'dense_bebe9ac65a164f2892075348f55ad18b/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_1_6a6283cd7b574acbacaa2a427312ebff/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,853: {'input-0-0': [<tf.Tensor 'conv2d_217a12ad1ae84a4db0e45758e2a9919d/Identity:0' shape=(None, 28, 28, 56) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_fa7b8eaec81840459b321f04d1cdaf61/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_928d02accc334796acd7e3821c386d79/Identity:0' shape=(None, 28, 28, 19) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_2_9070619ea6304c8883dec8a4e45163a0/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_e6417d23141842759109e34577eeb425/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_3_07aa4886f22542d5b8dace48c29fca19/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_2_b42814aa682c4dc1a4314870ddf368b9/Identity:0' shape=(None, 28, 28, 23) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_4_ce7b3635d0f6449a8264e20c9a47eebe/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_3_33d987b7571e40828f37ee7ad69ce9a6/Identity:0' shape=(None, 28, 28, 41) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_bebe9ac65a164f2892075348f55ad18b/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_1_6a6283cd7b574acbacaa2a427312ebff/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:25:25,853: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_6a6283cd7b574acbacaa2a427312ebff/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:25,854: intermed-2-1: Added [<tf.Tensor 'conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,863: output-0-0: Added [<tf.Tensor 'dense_bd3adcc21ce443f4b42df584d779afdd/Identity:0' shape=(None, 103) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,866: intermed-2-1: Added complement [<tf.Tensor 'conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_5_2b0eb604e36a4f40afa525d476daabe7/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,868: output-0-0: Working on dense_dfbcbb47230f44ef9454631c49804e3c. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 242, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:25:25,868: output-0-0: is conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8/Identity:0 conv2d: True. is dense_dfbcbb47230f44ef9454631c49804e3c dense: True
+INFO - 2020-05-05 17:25:25,868: Adding a Flatten() layer between conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8/Identity:0 and dense_dfbcbb47230f44ef9454631c49804e3c
+TOPOLOGY - 2020-05-05 17:25:25,868: output-0-0: Added complement [<tf.Tensor 'dense_bd3adcc21ce443f4b42df584d779afdd/Identity:0' shape=(None, 103) dtype=float32>, <tf.Tensor 'dense_1_270c489d44d045a8afb47c51e69bbb81/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,869: {'input-0-0': [<tf.Tensor 'conv2d_a65f9f5cb587444d847b7d7d2cc8eda1/Identity:0' shape=(None, 28, 28, 57) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_8c8ad462936a47f282a3cf81a2700727/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_3fa8691ecb3844e18596d99330616ac5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_2_3443567e4fac41d18643f391b16dd68d/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_90f42ec609d040cc9df1fa93ec751dd1/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_3_8f7fa03620ca4c369c02c7b54ac050e4/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_2_a04279d91c074cc8b14462ecbe612c22/Identity:0' shape=(None, 28, 28, 16) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_4_99de222b7b004870ad31739927aef2d5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_3_7cad049ef84a4fe983d720a1eaa34400/Identity:0' shape=(None, 28, 28, 39) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_5_43b61594bc974ee589e0486cb546539e/Identity:0' shape=(None, 28, 28, 27) dtype=float32>, <tf.Tensor 'dropout_4_714fcb5c83584548b84ff99473d7cdaf/Identity:0' shape=(None, 28, 28, 27) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_bd3adcc21ce443f4b42df584d779afdd/Identity:0' shape=(None, 103) dtype=float32>, <tf.Tensor 'dense_1_270c489d44d045a8afb47c51e69bbb81/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:25:25,869: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_270c489d44d045a8afb47c51e69bbb81/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:25:25,871: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 12544) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,885: output-0-0: Added [<tf.Tensor 'dense_dfbcbb47230f44ef9454631c49804e3c/Identity:0' shape=(None, 242) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,890: output-0-0: Added complement [<tf.Tensor 'dense_dfbcbb47230f44ef9454631c49804e3c/Identity:0' shape=(None, 242) dtype=float32>, <tf.Tensor 'dense_1_7e01f650d6604d71b514ca0953f6ce70/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:25:25,890: {'input-0-0': [<tf.Tensor 'conv2d_1701afc7757b43b7b0688bb1e5c14ccc/Identity:0' shape=(None, 28, 28, 20) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_a5608f13cd95410581ae2cd5249899b3/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_0e061116d28e45bfb0d8893665ef45e6/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_2_c825b842f25d4ebdb22a844393561029/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_1_2b85f3b1dd7140ec9908555fb9d56663/Identity:0' shape=(None, 28, 28, 23) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_3_435413ea85154e33b6190bfa8b962b23/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_2_0aaa9999ee374359b7058eeee23f71c5/Identity:0' shape=(None, 28, 28, 39) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_4_7cd6fb82313c48359ba114fd3ad50325/Identity:0' shape=(None, 28, 28, 24) dtype=float32>, <tf.Tensor 'dropout_3_a6cdccec518b49bfaa57679b75f59a5b/Identity:0' shape=(None, 28, 28, 24) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_5_7d30514318394355a5814d4605796adf/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_4_c9a403c0d1c54465a066dbbaf6b59161/Identity:0' shape=(None, 28, 28, 44) dtype=float32>], 'intermed-2-1': [<tf.Tensor 'conv2d_6_560631a26b3540e3a8f2c1b9d431f7a8/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_5_2b0eb604e36a4f40afa525d476daabe7/Identity:0' shape=(None, 28, 28, 16) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_dfbcbb47230f44ef9454631c49804e3c/Identity:0' shape=(None, 242) dtype=float32>, <tf.Tensor 'dense_1_7e01f650d6604d71b514ca0953f6ce70/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:25:25,890: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_7e01f650d6604d71b514ca0953f6ce70/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:26:28,113: Fitness for individual 2 using blueprint 4 after 2 epochs: {'loss': [0.4921798821477329, 0.11255139301673454], 'accuracy': [0.8417647, 0.96258825], 'val_loss': [0.17489640148480734, 0.1430098054607709], 'val_accuracy': [0.952, 0.96]}
+INFO - 2020-05-05 17:26:28,113: Scoring one individual
+INFO - 2020-05-05 17:26:29,181: Test scores for individual 2 using blueprint 4 after training: [0.14336845636367798, 0.961]
+INFO - 2020-05-05 17:26:29,182: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:26:29,182: Starting assembling of blueprint 2.
+TOPOLOGY - 2020-05-05 17:26:29,745: Generated the assembled graph for blueprint 2: ['input-0-0', 'intermed-0-0', 'output-0-0']
+INFO - 2020-05-05 17:26:29,746: Generating keras layers
+INFO - 2020-05-05 17:26:29,746: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:26:29,748: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:26:29,749: input-0-0: Working on conv2d_5_7b4008ac53664da9a6b0d752eb5f4e1d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 49, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:29,757: input-0-0: Added [<tf.Tensor 'conv2d_5_7b4008ac53664da9a6b0d752eb5f4e1d/Identity:0' shape=(None, 28, 28, 49) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,758: intermed-0-0: Working on conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 26, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:29,758: intermed-0-0: is conv2d_5_7b4008ac53664da9a6b0d752eb5f4e1d/Identity:0 conv2d: True. is conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2 dense: False
+TOPOLOGY - 2020-05-05 17:26:29,764: intermed-0-0: Added [<tf.Tensor 'conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2/Identity:0' shape=(None, 28, 28, 26) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,777: intermed-0-0: Added complement [<tf.Tensor 'conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2/Identity:0' shape=(None, 28, 28, 26) dtype=float32>, <tf.Tensor 'dropout_4_4c1d296342d74d72b690f231e8160d75/Identity:0' shape=(None, 28, 28, 26) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,779: output-0-0: Working on dense_2_adc8e4bfeefc4bbf924383fedf097d2e. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 238, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:29,779: output-0-0: is conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2/Identity:0 conv2d: True. is dense_2_adc8e4bfeefc4bbf924383fedf097d2e dense: True
+INFO - 2020-05-05 17:26:29,779: Adding a Flatten() layer between conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2/Identity:0 and dense_2_adc8e4bfeefc4bbf924383fedf097d2e
+TOPOLOGY - 2020-05-05 17:26:29,782: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 20384) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,796: output-0-0: Added [<tf.Tensor 'dense_2_adc8e4bfeefc4bbf924383fedf097d2e/Identity:0' shape=(None, 238) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,802: output-0-0: Added complement [<tf.Tensor 'dense_2_adc8e4bfeefc4bbf924383fedf097d2e/Identity:0' shape=(None, 238) dtype=float32>, <tf.Tensor 'dense_3_c31b7fbd51344e248a322acdb41c2ba7/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:29,802: {'input-0-0': [<tf.Tensor 'conv2d_5_7b4008ac53664da9a6b0d752eb5f4e1d/Identity:0' shape=(None, 28, 28, 49) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_6_e97b7d0f2bc44b4d9e683cb22cc75fe2/Identity:0' shape=(None, 28, 28, 26) dtype=float32>, <tf.Tensor 'dropout_4_4c1d296342d74d72b690f231e8160d75/Identity:0' shape=(None, 28, 28, 26) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_adc8e4bfeefc4bbf924383fedf097d2e/Identity:0' shape=(None, 238) dtype=float32>, <tf.Tensor 'dense_3_c31b7fbd51344e248a322acdb41c2ba7/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:26:29,802: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_c31b7fbd51344e248a322acdb41c2ba7/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:26:39,740: Fitness for individual 1 using blueprint 9 after 2 epochs: {'loss': [0.9485760430588441, 0.23003470919938648], 'accuracy': [0.69611764, 0.92658824], 'val_loss': [0.2800847661495209, 0.20312003795305889], 'val_accuracy': [0.91066664, 0.93266666]}
+INFO - 2020-05-05 17:26:39,740: Scoring one individual
+INFO - 2020-05-05 17:26:41,210: Test scores for individual 1 using blueprint 9 after training: [0.21171528947353363, 0.927]
+INFO - 2020-05-05 17:26:41,212: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:26:41,212: Starting assembling of blueprint 3.
+TOPOLOGY - 2020-05-05 17:26:41,853: Generated the assembled graph for blueprint 3: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-1-0', 'intermed-2-0', 'intermed-2-1', 'intermed-2-2', 'output-0-0']
+INFO - 2020-05-05 17:26:41,854: Generating keras layers
+INFO - 2020-05-05 17:26:41,854: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:26:41,857: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:26:41,859: input-0-0: Working on conv2d_4_e05a69ff28c84696abba69646c9144d1. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,867: input-0-0: Added [<tf.Tensor 'conv2d_4_e05a69ff28c84696abba69646c9144d1/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,869: intermed-0-0: Working on conv2d_5_c2f7b06052f842a6b049cae8ba7be142. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 35, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,869: intermed-0-0: is conv2d_4_e05a69ff28c84696abba69646c9144d1/Identity:0 conv2d: True. is conv2d_5_c2f7b06052f842a6b049cae8ba7be142 dense: False
+TOPOLOGY - 2020-05-05 17:26:41,876: intermed-0-0: Added [<tf.Tensor 'conv2d_5_c2f7b06052f842a6b049cae8ba7be142/Identity:0' shape=(None, 28, 28, 35) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,891: intermed-0-0: Added complement [<tf.Tensor 'conv2d_5_c2f7b06052f842a6b049cae8ba7be142/Identity:0' shape=(None, 28, 28, 35) dtype=float32>, <tf.Tensor 'dropout_3_9e6cbccc01554293b2ff3636e10ed1cf/Identity:0' shape=(None, 28, 28, 35) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,893: intermed-0-1: Working on conv2d_6_32830075bb204dcb923487e076fbe11e. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 45, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,893: intermed-0-1: is conv2d_5_c2f7b06052f842a6b049cae8ba7be142/Identity:0 conv2d: True. is conv2d_6_32830075bb204dcb923487e076fbe11e dense: False
+TOPOLOGY - 2020-05-05 17:26:41,899: intermed-0-1: Added [<tf.Tensor 'conv2d_6_32830075bb204dcb923487e076fbe11e/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,912: intermed-0-1: Added complement [<tf.Tensor 'conv2d_6_32830075bb204dcb923487e076fbe11e/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_4_426ef0f89bb04b2ba9c03f2bf5d8da3f/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,914: intermed-1-0: Working on conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,914: intermed-1-0: is conv2d_6_32830075bb204dcb923487e076fbe11e/Identity:0 conv2d: True. is conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb dense: False
+TOPOLOGY - 2020-05-05 17:26:41,921: intermed-1-0: Added [<tf.Tensor 'conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,934: intermed-1-0: Added complement [<tf.Tensor 'conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_5_5734b6cbeca042058434f3815a90c604/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,935: intermed-2-0: Working on conv2d_8_e854659ad1fc4abf8783cfef67b32f39. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,935: intermed-2-0: is conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb/Identity:0 conv2d: True. is conv2d_8_e854659ad1fc4abf8783cfef67b32f39 dense: False
+TOPOLOGY - 2020-05-05 17:26:41,942: intermed-2-0: Added [<tf.Tensor 'conv2d_8_e854659ad1fc4abf8783cfef67b32f39/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,955: intermed-2-0: Added complement [<tf.Tensor 'conv2d_8_e854659ad1fc4abf8783cfef67b32f39/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_6_6e184f1bb79b48b4a0befc947cdbe410/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,957: intermed-2-1: Working on conv2d_9_1f4e46863edd430b8dfed4b7d28386ff. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 29, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,957: intermed-2-1: is conv2d_8_e854659ad1fc4abf8783cfef67b32f39/Identity:0 conv2d: True. is conv2d_9_1f4e46863edd430b8dfed4b7d28386ff dense: False
+TOPOLOGY - 2020-05-05 17:26:41,964: intermed-2-1: Added [<tf.Tensor 'conv2d_9_1f4e46863edd430b8dfed4b7d28386ff/Identity:0' shape=(None, 28, 28, 29) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,976: intermed-2-1: Added complement [<tf.Tensor 'conv2d_9_1f4e46863edd430b8dfed4b7d28386ff/Identity:0' shape=(None, 28, 28, 29) dtype=float32>, <tf.Tensor 'dropout_7_532c29e7de674f5cbda7b6c28632bd9e/Identity:0' shape=(None, 28, 28, 29) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,978: intermed-2-2: Working on conv2d_10_60463290cc7d4b1b925637a9a93e1f81. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 30, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,978: intermed-2-2: is conv2d_9_1f4e46863edd430b8dfed4b7d28386ff/Identity:0 conv2d: True. is conv2d_10_60463290cc7d4b1b925637a9a93e1f81 dense: False
+TOPOLOGY - 2020-05-05 17:26:41,984: intermed-2-2: Added [<tf.Tensor 'conv2d_10_60463290cc7d4b1b925637a9a93e1f81/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,996: intermed-2-2: Added complement [<tf.Tensor 'conv2d_10_60463290cc7d4b1b925637a9a93e1f81/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_8_b72f05f288124d6284061658a569bba5/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:41,998: output-0-0: Working on dense_2_907f90ec821844f986cbfdcef00de125. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 84, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:26:41,998: output-0-0: is conv2d_10_60463290cc7d4b1b925637a9a93e1f81/Identity:0 conv2d: True. is dense_2_907f90ec821844f986cbfdcef00de125 dense: True
+INFO - 2020-05-05 17:26:41,998: Adding a Flatten() layer between conv2d_10_60463290cc7d4b1b925637a9a93e1f81/Identity:0 and dense_2_907f90ec821844f986cbfdcef00de125
+TOPOLOGY - 2020-05-05 17:26:42,001: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 23520) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:42,010: output-0-0: Added [<tf.Tensor 'dense_2_907f90ec821844f986cbfdcef00de125/Identity:0' shape=(None, 84) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:42,016: output-0-0: Added complement [<tf.Tensor 'dense_2_907f90ec821844f986cbfdcef00de125/Identity:0' shape=(None, 84) dtype=float32>, <tf.Tensor 'dense_3_79c146537e5e428cb566a985ed0069ff/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:26:42,017: {'input-0-0': [<tf.Tensor 'conv2d_4_e05a69ff28c84696abba69646c9144d1/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_5_c2f7b06052f842a6b049cae8ba7be142/Identity:0' shape=(None, 28, 28, 35) dtype=float32>, <tf.Tensor 'dropout_3_9e6cbccc01554293b2ff3636e10ed1cf/Identity:0' shape=(None, 28, 28, 35) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_6_32830075bb204dcb923487e076fbe11e/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_4_426ef0f89bb04b2ba9c03f2bf5d8da3f/Identity:0' shape=(None, 28, 28, 45) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_7_6fd3fc1ab9804a11a0b6804f49c463fb/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_5_5734b6cbeca042058434f3815a90c604/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_8_e854659ad1fc4abf8783cfef67b32f39/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_6_6e184f1bb79b48b4a0befc947cdbe410/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-2-1': [<tf.Tensor 'conv2d_9_1f4e46863edd430b8dfed4b7d28386ff/Identity:0' shape=(None, 28, 28, 29) dtype=float32>, <tf.Tensor 'dropout_7_532c29e7de674f5cbda7b6c28632bd9e/Identity:0' shape=(None, 28, 28, 29) dtype=float32>], 'intermed-2-2': [<tf.Tensor 'conv2d_10_60463290cc7d4b1b925637a9a93e1f81/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_8_b72f05f288124d6284061658a569bba5/Identity:0' shape=(None, 28, 28, 30) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_907f90ec821844f986cbfdcef00de125/Identity:0' shape=(None, 84) dtype=float32>, <tf.Tensor 'dense_3_79c146537e5e428cb566a985ed0069ff/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:26:42,017: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_79c146537e5e428cb566a985ed0069ff/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:26:46,394: Fitness for individual 6 using blueprint 2 after 2 epochs: {'loss': [0.5373616433985093, 0.191200188619249], 'accuracy': [0.8322353, 0.93988234], 'val_loss': [0.32117290957768757, 0.23323495392004648], 'val_accuracy': [0.908, 0.9293333]}
+INFO - 2020-05-05 17:26:46,394: Scoring one individual
+INFO - 2020-05-05 17:26:46,716: Test scores for individual 6 using blueprint 2 after training: [0.28152258241176603, 0.916]
+INFO - 2020-05-05 17:27:12,453: Fitness for individual 3 using blueprint 1 after 2 epochs: {'loss': [2.34391218140546, 2.3018197933645808], 'accuracy': [0.10752941, 0.10576471], 'val_loss': [2.3016404838562012, 2.302172101974487], 'val_accuracy': [0.102, 0.102]}
+INFO - 2020-05-05 17:27:12,454: Scoring one individual
+INFO - 2020-05-05 17:27:14,506: Test scores for individual 3 using blueprint 1 after training: [2.301067897796631, 0.111]
+INFO - 2020-05-05 17:27:14,507: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:27:14,507: Starting assembling of blueprint 10.
+TOPOLOGY - 2020-05-05 17:27:15,120: Generated the assembled graph for blueprint 10: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'intermed-2-0', 'intermed-2-1', 'intermed-2-2', 'output-0-0']
+INFO - 2020-05-05 17:27:15,120: Generating keras layers
+INFO - 2020-05-05 17:27:15,120: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:27:15,122: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:27:15,124: input-0-0: Working on conv2d_6_ffc5e30a5952485dab5ec9268fedce1d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 21, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,131: input-0-0: Added [<tf.Tensor 'conv2d_6_ffc5e30a5952485dab5ec9268fedce1d/Identity:0' shape=(None, 28, 28, 21) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,132: intermed-0-0: Working on conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,132: intermed-0-0: is conv2d_6_ffc5e30a5952485dab5ec9268fedce1d/Identity:0 conv2d: True. is conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc dense: False
+TOPOLOGY - 2020-05-05 17:27:15,138: intermed-0-0: Added [<tf.Tensor 'conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,150: intermed-0-0: Added complement [<tf.Tensor 'conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_5_12998f29f4f446c799e04becdff23a11/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,151: intermed-1-0: Working on conv2d_8_24eb181cb0da43c4bbea0b63196f281f. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 20, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,151: intermed-1-0: is conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc/Identity:0 conv2d: True. is conv2d_8_24eb181cb0da43c4bbea0b63196f281f dense: False
+TOPOLOGY - 2020-05-05 17:27:15,157: intermed-1-0: Added [<tf.Tensor 'conv2d_8_24eb181cb0da43c4bbea0b63196f281f/Identity:0' shape=(None, 28, 28, 20) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,170: intermed-1-0: Added complement [<tf.Tensor 'conv2d_8_24eb181cb0da43c4bbea0b63196f281f/Identity:0' shape=(None, 28, 28, 20) dtype=float32>, <tf.Tensor 'dropout_6_0dbbd009551a456b8a206e2f3d8d4527/Identity:0' shape=(None, 28, 28, 20) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,171: intermed-1-1: Working on conv2d_9_03b2ba2f07934251a344fa226243112e. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 32, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,171: intermed-1-1: is conv2d_8_24eb181cb0da43c4bbea0b63196f281f/Identity:0 conv2d: True. is conv2d_9_03b2ba2f07934251a344fa226243112e dense: False
+TOPOLOGY - 2020-05-05 17:27:15,177: intermed-1-1: Added [<tf.Tensor 'conv2d_9_03b2ba2f07934251a344fa226243112e/Identity:0' shape=(None, 28, 28, 32) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,191: intermed-1-1: Added complement [<tf.Tensor 'conv2d_9_03b2ba2f07934251a344fa226243112e/Identity:0' shape=(None, 28, 28, 32) dtype=float32>, <tf.Tensor 'dropout_7_36097fbd15dd4e228b2f58d4b0826e46/Identity:0' shape=(None, 28, 28, 32) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,192: intermed-1-2: Working on conv2d_10_ea79bcf367284125b59544c9ce83eb18. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,192: intermed-1-2: is conv2d_9_03b2ba2f07934251a344fa226243112e/Identity:0 conv2d: True. is conv2d_10_ea79bcf367284125b59544c9ce83eb18 dense: False
+TOPOLOGY - 2020-05-05 17:27:15,198: intermed-1-2: Added [<tf.Tensor 'conv2d_10_ea79bcf367284125b59544c9ce83eb18/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,210: intermed-1-2: Added complement [<tf.Tensor 'conv2d_10_ea79bcf367284125b59544c9ce83eb18/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_8_78783f61c22b42aa87758f3f1ea844e3/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,211: intermed-2-0: Working on conv2d_11_f2aa40a48723456cb6ad678ab2cf8739. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 31, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,211: intermed-2-0: is conv2d_10_ea79bcf367284125b59544c9ce83eb18/Identity:0 conv2d: True. is conv2d_11_f2aa40a48723456cb6ad678ab2cf8739 dense: False
+TOPOLOGY - 2020-05-05 17:27:15,217: intermed-2-0: Added [<tf.Tensor 'conv2d_11_f2aa40a48723456cb6ad678ab2cf8739/Identity:0' shape=(None, 28, 28, 31) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,229: intermed-2-0: Added complement [<tf.Tensor 'conv2d_11_f2aa40a48723456cb6ad678ab2cf8739/Identity:0' shape=(None, 28, 28, 31) dtype=float32>, <tf.Tensor 'dropout_9_2ad819e2e14347539912777e9fba8f44/Identity:0' shape=(None, 28, 28, 31) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,230: intermed-2-1: Working on conv2d_12_e55b58b947234100aaa8b1dadf22ad80. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 45, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,230: intermed-2-1: is conv2d_11_f2aa40a48723456cb6ad678ab2cf8739/Identity:0 conv2d: True. is conv2d_12_e55b58b947234100aaa8b1dadf22ad80 dense: False
+TOPOLOGY - 2020-05-05 17:27:15,236: intermed-2-1: Added [<tf.Tensor 'conv2d_12_e55b58b947234100aaa8b1dadf22ad80/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,248: intermed-2-1: Added complement [<tf.Tensor 'conv2d_12_e55b58b947234100aaa8b1dadf22ad80/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_10_67b0b68d86c749f59b3ce97ef5242c2a/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,249: intermed-2-2: Working on conv2d_13_93ad58332e504baf8823d7a0d254c485. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 21, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,249: intermed-2-2: is conv2d_12_e55b58b947234100aaa8b1dadf22ad80/Identity:0 conv2d: True. is conv2d_13_93ad58332e504baf8823d7a0d254c485 dense: False
+TOPOLOGY - 2020-05-05 17:27:15,254: intermed-2-2: Added [<tf.Tensor 'conv2d_13_93ad58332e504baf8823d7a0d254c485/Identity:0' shape=(None, 28, 28, 21) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,267: intermed-2-2: Added complement [<tf.Tensor 'conv2d_13_93ad58332e504baf8823d7a0d254c485/Identity:0' shape=(None, 28, 28, 21) dtype=float32>, <tf.Tensor 'dropout_11_19e7239a24f8430da0062e51f3e10f27/Identity:0' shape=(None, 28, 28, 21) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,269: output-0-0: Working on dense_2_a0f4a3846dc24e18b127a554571f6682. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 159, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:27:15,269: output-0-0: is conv2d_13_93ad58332e504baf8823d7a0d254c485/Identity:0 conv2d: True. is dense_2_a0f4a3846dc24e18b127a554571f6682 dense: True
+INFO - 2020-05-05 17:27:15,269: Adding a Flatten() layer between conv2d_13_93ad58332e504baf8823d7a0d254c485/Identity:0 and dense_2_a0f4a3846dc24e18b127a554571f6682
+TOPOLOGY - 2020-05-05 17:27:15,272: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 16464) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,283: output-0-0: Added [<tf.Tensor 'dense_2_a0f4a3846dc24e18b127a554571f6682/Identity:0' shape=(None, 159) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,288: output-0-0: Added complement [<tf.Tensor 'dense_2_a0f4a3846dc24e18b127a554571f6682/Identity:0' shape=(None, 159) dtype=float32>, <tf.Tensor 'dense_3_381b1089a4584be8a1f51cc1aa0baa51/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:27:15,288: {'input-0-0': [<tf.Tensor 'conv2d_6_ffc5e30a5952485dab5ec9268fedce1d/Identity:0' shape=(None, 28, 28, 21) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_7_d7ce2def5b9744e8aa7f23891a227cfc/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_5_12998f29f4f446c799e04becdff23a11/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_8_24eb181cb0da43c4bbea0b63196f281f/Identity:0' shape=(None, 28, 28, 20) dtype=float32>, <tf.Tensor 'dropout_6_0dbbd009551a456b8a206e2f3d8d4527/Identity:0' shape=(None, 28, 28, 20) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_9_03b2ba2f07934251a344fa226243112e/Identity:0' shape=(None, 28, 28, 32) dtype=float32>, <tf.Tensor 'dropout_7_36097fbd15dd4e228b2f58d4b0826e46/Identity:0' shape=(None, 28, 28, 32) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_10_ea79bcf367284125b59544c9ce83eb18/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_8_78783f61c22b42aa87758f3f1ea844e3/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_11_f2aa40a48723456cb6ad678ab2cf8739/Identity:0' shape=(None, 28, 28, 31) dtype=float32>, <tf.Tensor 'dropout_9_2ad819e2e14347539912777e9fba8f44/Identity:0' shape=(None, 28, 28, 31) dtype=float32>], 'intermed-2-1': [<tf.Tensor 'conv2d_12_e55b58b947234100aaa8b1dadf22ad80/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_10_67b0b68d86c749f59b3ce97ef5242c2a/Identity:0' shape=(None, 28, 28, 45) dtype=float32>], 'intermed-2-2': [<tf.Tensor 'conv2d_13_93ad58332e504baf8823d7a0d254c485/Identity:0' shape=(None, 28, 28, 21) dtype=float32>, <tf.Tensor 'dropout_11_19e7239a24f8430da0062e51f3e10f27/Identity:0' shape=(None, 28, 28, 21) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_a0f4a3846dc24e18b127a554571f6682/Identity:0' shape=(None, 159) dtype=float32>, <tf.Tensor 'dense_3_381b1089a4584be8a1f51cc1aa0baa51/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:27:15,288: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_381b1089a4584be8a1f51cc1aa0baa51/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:28:02,276: Fitness for individual 4 using blueprint 8 after 2 epochs: {'loss': [2.6956784284255084, 2.301785836836871], 'accuracy': [0.11082353, 0.11164706], 'val_loss': [2.3023230501810708, 2.3023979670206707], 'val_accuracy': [0.102, 0.102]}
+INFO - 2020-05-05 17:28:02,276: Scoring one individual
+INFO - 2020-05-05 17:28:05,666: Test scores for individual 4 using blueprint 8 after training: [2.300384250640869, 0.111]
+INFO - 2020-05-05 17:28:05,667: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:28:05,667: Starting assembling of blueprint 5.
+TOPOLOGY - 2020-05-05 17:28:06,272: Generated the assembled graph for blueprint 5: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-2-0', 'intermed-2-1', 'output-0-0']
+INFO - 2020-05-05 17:28:06,272: Generating keras layers
+INFO - 2020-05-05 17:28:06,273: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:28:06,275: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:28:06,276: input-0-0: Working on conv2d_7_49ff812d3020406cade99bef364bfa62. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 33, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,284: input-0-0: Added [<tf.Tensor 'conv2d_7_49ff812d3020406cade99bef364bfa62/Identity:0' shape=(None, 28, 28, 33) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,285: intermed-0-0: Working on conv2d_8_a9513c716c594c00bd654f78143f5a97. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,286: intermed-0-0: is conv2d_7_49ff812d3020406cade99bef364bfa62/Identity:0 conv2d: True. is conv2d_8_a9513c716c594c00bd654f78143f5a97 dense: False
+TOPOLOGY - 2020-05-05 17:28:06,292: intermed-0-0: Added [<tf.Tensor 'conv2d_8_a9513c716c594c00bd654f78143f5a97/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,305: intermed-0-0: Added complement [<tf.Tensor 'conv2d_8_a9513c716c594c00bd654f78143f5a97/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_6_b805e8e0ac0c458780ede56081b4f054/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,307: intermed-1-0: Working on conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 18, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,307: intermed-1-0: is conv2d_8_a9513c716c594c00bd654f78143f5a97/Identity:0 conv2d: True. is conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c dense: False
+TOPOLOGY - 2020-05-05 17:28:06,313: intermed-1-0: Added [<tf.Tensor 'conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c/Identity:0' shape=(None, 28, 28, 18) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,325: intermed-1-0: Added complement [<tf.Tensor 'conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c/Identity:0' shape=(None, 28, 28, 18) dtype=float32>, <tf.Tensor 'dropout_7_cb8d3982efcb4bcea48a984352d00da5/Identity:0' shape=(None, 28, 28, 18) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,327: intermed-1-1: Working on conv2d_10_08505d2d60164a89a312b78a65261604. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 48, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,327: intermed-1-1: is conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c/Identity:0 conv2d: True. is conv2d_10_08505d2d60164a89a312b78a65261604 dense: False
+TOPOLOGY - 2020-05-05 17:28:06,333: intermed-1-1: Added [<tf.Tensor 'conv2d_10_08505d2d60164a89a312b78a65261604/Identity:0' shape=(None, 28, 28, 48) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,344: intermed-1-1: Added complement [<tf.Tensor 'conv2d_10_08505d2d60164a89a312b78a65261604/Identity:0' shape=(None, 28, 28, 48) dtype=float32>, <tf.Tensor 'dropout_8_a307f3db83ec44199af2d99c8da8ffac/Identity:0' shape=(None, 28, 28, 48) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,346: intermed-2-0: Working on conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,346: intermed-2-0: is conv2d_10_08505d2d60164a89a312b78a65261604/Identity:0 conv2d: True. is conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808 dense: False
+TOPOLOGY - 2020-05-05 17:28:06,351: intermed-2-0: Added [<tf.Tensor 'conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,363: intermed-2-0: Added complement [<tf.Tensor 'conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_9_aec9c748e0ec43d1b385a28b20e19e6b/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,364: intermed-2-1: Working on conv2d_12_77ab154edb7b440fbae75358d955189c. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,364: intermed-2-1: is conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808/Identity:0 conv2d: True. is conv2d_12_77ab154edb7b440fbae75358d955189c dense: False
+TOPOLOGY - 2020-05-05 17:28:06,370: intermed-2-1: Added [<tf.Tensor 'conv2d_12_77ab154edb7b440fbae75358d955189c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,384: intermed-2-1: Added complement [<tf.Tensor 'conv2d_12_77ab154edb7b440fbae75358d955189c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_10_d60d65daae3e4f9ab1b3c8b92d83c24b/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,385: output-0-0: Working on dense_2_09d77f58b5854b34bab8fdfee2764ee5. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 190, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:28:06,386: output-0-0: is conv2d_12_77ab154edb7b440fbae75358d955189c/Identity:0 conv2d: True. is dense_2_09d77f58b5854b34bab8fdfee2764ee5 dense: True
+INFO - 2020-05-05 17:28:06,386: Adding a Flatten() layer between conv2d_12_77ab154edb7b440fbae75358d955189c/Identity:0 and dense_2_09d77f58b5854b34bab8fdfee2764ee5
+TOPOLOGY - 2020-05-05 17:28:06,389: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 31360) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,407: output-0-0: Added [<tf.Tensor 'dense_2_09d77f58b5854b34bab8fdfee2764ee5/Identity:0' shape=(None, 190) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,413: output-0-0: Added complement [<tf.Tensor 'dense_2_09d77f58b5854b34bab8fdfee2764ee5/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_975a9f1303b74143bc8f19f00b284378/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:28:06,413: {'input-0-0': [<tf.Tensor 'conv2d_7_49ff812d3020406cade99bef364bfa62/Identity:0' shape=(None, 28, 28, 33) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_8_a9513c716c594c00bd654f78143f5a97/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_6_b805e8e0ac0c458780ede56081b4f054/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_9_122c0c29bc1a4e8093d23e9fa9f3e36c/Identity:0' shape=(None, 28, 28, 18) dtype=float32>, <tf.Tensor 'dropout_7_cb8d3982efcb4bcea48a984352d00da5/Identity:0' shape=(None, 28, 28, 18) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_10_08505d2d60164a89a312b78a65261604/Identity:0' shape=(None, 28, 28, 48) dtype=float32>, <tf.Tensor 'dropout_8_a307f3db83ec44199af2d99c8da8ffac/Identity:0' shape=(None, 28, 28, 48) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_11_0bdecc2d947f4fc1a978fd84b58cb808/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_9_aec9c748e0ec43d1b385a28b20e19e6b/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'intermed-2-1': [<tf.Tensor 'conv2d_12_77ab154edb7b440fbae75358d955189c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_10_d60d65daae3e4f9ab1b3c8b92d83c24b/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_09d77f58b5854b34bab8fdfee2764ee5/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_975a9f1303b74143bc8f19f00b284378/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:28:06,413: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_975a9f1303b74143bc8f19f00b284378/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:28:41,577: Fitness for individual 7 using blueprint 10 after 2 epochs: {'loss': [2.3041257122264187, 2.301915740293615], 'accuracy': [0.10929412, 0.108], 'val_loss': [2.301928504308065, 2.301912858963013], 'val_accuracy': [0.102, 0.102]}
+INFO - 2020-05-05 17:28:41,577: Scoring one individual
+INFO - 2020-05-05 17:28:43,007: Test scores for individual 7 using blueprint 10 after training: [2.3003353176116943, 0.111]
+INFO - 2020-05-05 17:29:12,503: Fitness for individual 5 using blueprint 3 after 2 epochs: {'loss': [2.4060737899331484, 2.301783596712], 'accuracy': [0.10552941, 0.11164706], 'val_loss': [2.301826497395833, 2.301981205622355], 'val_accuracy': [0.102, 0.102]}
+INFO - 2020-05-05 17:29:12,503: Scoring one individual
+INFO - 2020-05-05 17:29:15,556: Test scores for individual 5 using blueprint 3 after training: [2.300564428329468, 0.111]
+INFO - 2020-05-05 17:29:55,535: Fitness for individual 8 using blueprint 5 after 2 epochs: {'loss': [2.396076934365665, 2.3021230790755327], 'accuracy': [0.10752941, 0.10823529], 'val_loss': [2.302070218404134, 2.301860027949015], 'val_accuracy': [0.102, 0.102]}
+INFO - 2020-05-05 17:29:55,536: Scoring one individual
+INFO - 2020-05-05 17:29:57,745: Test scores for individual 8 using blueprint 5 after training: [2.3007010345458982, 0.111]
+TOPOLOGY - 2020-05-05 17:29:57,778: This iteration: [[1, 9, [0.21171528947353363, 0.927], (3, 2, 249), 2, 0], [2, 4, [0.14336845636367798, 0.961], (4, 3, 296), 0, 0], [3, 1, [2.301067897796631, 0.111], (4, 3, 309), 0, 0], [4, 8, [2.300384250640869, 0.111], (5, 4, 436), 1, 0], [5, 3, [2.300564428329468, 0.111], (5, 4, 341), 1, 0], [6, 2, [0.28152258241176603, 0.916], (3, 2, 313), 2, 0], [7, 10, [2.3003353176116943, 0.111], (5, 4, 385), 1, 0], [8, 5, [2.3007010345458982, 0.111], (5, 4, 409), 1, 0]]
+TOPOLOGY - 2020-05-05 17:29:57,781: Best model chosen: [2, 4, [0.14336845636367798, 0.961], (4, 3, 296), 0, 0]
+ERROR - 2020-05-05 17:29:57,781: Model from generation 0 could not be saved.
+TOPOLOGY - 2020-05-05 17:29:57,781: 
+
+ --------------- Generation 0 Summary -------------- 
+
+TOPOLOGY - 2020-05-05 17:29:57,781: Current 8 individuals: [1, 2, 3, 4, 5, 6, 7, 8]
+TOPOLOGY - 2020-05-05 17:29:57,783: Current 10 blueprints: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[  1  99   0   0   4   3 309] 
+[  2  99   0   2   3   2 313] 
+[  3  99   0   1   5   4 341] 
+[  4  99   0   0   4   3 296] 
+[  5  99   0   1   5   4 409] 
+[  6  99   0   2   3   2 398] 
+[  7  99   0   2   3   2 285] 
+[  8  99   0   1   5   4 436] 
+[  9  99   0   2   3   2 249] 
+[ 10  99   0   1   5   4 385]]
+TOPOLOGY - 2020-05-05 17:29:57,783: Current 3 blueprint species: [0, 1, 2]
+TOPOLOGY - 2020-05-05 17:29:57,783: NOTE: Scores are considering past iteration. Not considering current blueprints for they are not yet all evaluated.
+TOPOLOGY - 2020-05-05 17:29:57,783: Current blueprint species 0 scores: [99, 0]. members: [1, 4]
+TOPOLOGY - 2020-05-05 17:29:57,783: Current blueprint species 1 scores: [99, 0]. members: [3, 5, 8, 10]
+TOPOLOGY - 2020-05-05 17:29:57,783: Current blueprint species 2 scores: [99, 0]. members: [2, 6, 7, 9]
+TOPOLOGY - 2020-05-05 17:29:57,784: Current 30 modules: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[  1  99   0   1   3   2 102] 
+[  2  99   0   0   2   1  80] 
+[  3  99   0   1   3   2  84] 
+[  4  99   0   1   3   2  83] 
+[  5  99   0   2   1   0  28] 
+[  6  99   0   0   2   1  66] 
+[  7  99   0   1   3   2 112] 
+[  8  99   0   1   3   2  92] 
+[  9  99   0   2   1   0  34] 
+[ 10  99   0   0   2   1  68] 
+[ 11  99   0   0   2   1  74] 
+[ 12  99   0   2   1   0  29] 
+[ 13  99   0   0   2   1  82] 
+[ 14  99   0   2   1   0  38] 
+[ 15  99   0   0   2   1  64] 
+[ 16  99   0   2   1   0  19] 
+[ 17  99   0   1   3   2  80] 
+[ 18  99   0   1   3   2  90] 
+[ 19  99   0   0   2   1  60] 
+[ 20  99   0   0   2   1  69] 
+[ 21  99   0   0   2   1  66] 
+[ 22  99   0   2   1   0  26] 
+[ 23  99   0   1   3   2  79] 
+[ 24  99   0   2   1   0  24] 
+[ 25  99   0   1   3   2  89] 
+[ 26  99   0   1   3   2  99] 
+[ 27  99   0   1   3   2  97] 
+[ 28  99   0   0   2   1  45] 
+[ 29  99   0   1   3   2 120] 
+[ 30  99   0   2   1   0  38]]
+TOPOLOGY - 2020-05-05 17:29:57,784: Current 3 module species: [0, 1, 2]
+TOPOLOGY - 2020-05-05 17:29:57,784: NOTE: Scores are considering past iteration. Not considering current modules for they are not yet all evaluated.
+TOPOLOGY - 2020-05-05 17:29:57,785: Current module species 0 scores: [99, 0]. members: [2, 6, 10, 11, 13, 15, 19, 20, 21, 28]
+TOPOLOGY - 2020-05-05 17:29:57,785: Current module species 1 scores: [99, 0]. members: [1, 3, 4, 7, 8, 17, 18, 23, 25, 26, 27, 29]
+TOPOLOGY - 2020-05-05 17:29:57,785: Current module species 2 scores: [99, 0]. members: [5, 9, 12, 14, 16, 22, 24, 30]
+TOPOLOGY - 2020-05-05 17:29:57,785: 
+ -------------------------------------------- 
+
+TOPOLOGY - 2020-05-05 17:29:57,785: Species 0 ordering: [[2, [99, 0]], [6, [99, 0]], [10, [99, 0]], [11, [99, 0]], [13, [99, 0]], [15, [99, 0]], [19, [99, 0]], [20, [99, 0]], [21, [99, 0]], [28, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,786: Species 1 ordering: [[1, [99, 0]], [3, [99, 0]], [4, [99, 0]], [7, [99, 0]], [8, [99, 0]], [17, [99, 0]], [18, [99, 0]], [23, [99, 0]], [25, [99, 0]], [26, [99, 0]], [27, [99, 0]], [29, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,786: Species 2 ordering: [[5, [99, 0]], [9, [99, 0]], [12, [99, 0]], [14, [99, 0]], [16, [99, 0]], [22, [99, 0]], [24, [99, 0]], [30, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,786: Excluding module: 1
+TOPOLOGY - 2020-05-05 17:29:57,786: Excluding module: 2
+TOPOLOGY - 2020-05-05 17:29:57,786: Excluding module: 3
+TOPOLOGY - 2020-05-05 17:29:57,786: Including offspring modules: [31, 32, 33]
+TOPOLOGY - 2020-05-05 17:29:57,788: Impossible to mutate candidate module 11 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d7491cf10>>.
+TOPOLOGY - 2020-05-05 17:29:57,788: Impossible to mutate candidate module 19 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c69790>>.
+TOPOLOGY - 2020-05-05 17:29:57,789: Impossible to mutate candidate module 30 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d7491cf10>>.
+TOPOLOGY - 2020-05-05 17:29:57,789: Impossible to mutate candidate module 13 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c69790>>.
+TOPOLOGY - 2020-05-05 17:29:57,790: Mutated candidate module 21 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,790: Impossible to mutate candidate module 33 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,791: Impossible to mutate candidate module 14 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,791: Mutated candidate module 26 with <bound method GraphOperator.mutate_by_node_removal of <kerascodeepneat.GraphOperator object at 0x2b8d74928d90>>.
+TOPOLOGY - 2020-05-05 17:29:57,791: Mutated candidate module 10 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,792: Mutated candidate module 25 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,792: Mutated candidate module 27 with <bound method GraphOperator.mutate_by_node_removal of <kerascodeepneat.GraphOperator object at 0x2b8d74928d90>>.
+TOPOLOGY - 2020-05-05 17:29:57,792: Impossible to mutate candidate module 9 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,793: Impossible to mutate candidate module 20 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afcc90>>.
+TOPOLOGY - 2020-05-05 17:29:57,793: Impossible to mutate candidate module 31 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d7491cf10>>.
+TOPOLOGY - 2020-05-05 17:29:57,794: Mutated candidate module 17 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74afc590>>.
+TOPOLOGY - 2020-05-05 17:29:57,794: Mutated 15 modules.
+TOPOLOGY - 2020-05-05 17:29:57,794: Previous species members: [(2, 1, 80), (2, 1, 66), (3, 3, 93), (2, 1, 74), (2, 1, 82), (2, 1, 64), (2, 1, 60), (2, 1, 69), (3, 3, 106), (2, 1, 45), (3, 2, 102), (3, 2, 84), (3, 2, 83), (3, 2, 112), (3, 2, 92), (4, 4, 99), (3, 2, 90), (3, 2, 79), (4, 4, 119), (2, 1, 70), (2, 1, 52), (3, 2, 120), (1, 0, 28), (1, 0, 34), (1, 0, 29), (1, 0, 38), (1, 0, 19), (1, 0, 26), (1, 0, 24), (1, 0, 38)]. 
+Previous labels: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:29:57,798: All Classifications: [0 0 1 0 0 0 0 0 1 0 1 1 1 1 1 1 1 1 1 0 0 1 2 2 2 2 2 2 2 2 1 2 0 1 1 2 1
+ 0 2 0 2 0 2 1 1 0 0 1 2 1 2 1 0 0 0 1 2 0 1 2]
+TOPOLOGY - 2020-05-05 17:29:57,798: Old Classifications: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:29:57,798: New Classifications: [1 2 0 1 1 2 1 0 2 0 2 0 2 1 1 0 0 1 2 1 2 1 0 0 0 1 2 0 1 2]
+TOPOLOGY - 2020-05-05 17:29:57,803: Species 0 ordering: [[1, [99, 0]], [4, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,807: Species 1 ordering: [[3, [99, 0]], [5, [99, 0]], [8, [99, 0]], [10, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,810: Species 2 ordering: [[2, [99, 0]], [6, [99, 0]], [7, [99, 0]], [9, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:29:57,810: Excluding blueprint: 1
+TOPOLOGY - 2020-05-05 17:29:57,810: Excluding blueprint: 2
+TOPOLOGY - 2020-05-05 17:29:57,810: Excluding blueprint: 3
+TOPOLOGY - 2020-05-05 17:29:57,810: Including offspring blueprints: [11, 12, 13]
+TOPOLOGY - 2020-05-05 17:29:57,810: Mutated candidate blueprint 12 to graph: ['input-0', 'intermed-0', 'intermed-1', 'intermed-2', 'output-0'] with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74d11b90>>.
+TOPOLOGY - 2020-05-05 17:29:57,810: Impossible to mutate candidate blueprint 7 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74b78c50>>.
+TOPOLOGY - 2020-05-05 17:29:57,811: Mutated candidate blueprint 8 to graph: ['input-0', 'intermed-0', 'intermed-1', 'intermed-2', 'output-0'] with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74d11b90>>.
+TOPOLOGY - 2020-05-05 17:29:57,811: Mutated candidate blueprint 5 to graph: ['input-0', 'intermed-0', 'intermed-1', 'intermed-2', 'output-0', 'intermed-3'] with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c42910>>.
+TOPOLOGY - 2020-05-05 17:29:57,811: Mutated candidate blueprint 13 to graph: ['input-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_removal of <kerascodeepneat.GraphOperator object at 0x2b8d74c5fe10>>.
+TOPOLOGY - 2020-05-05 17:29:57,811: Mutated 5 blueprints.
+TOPOLOGY - 2020-05-05 17:29:57,811: Previous species members: [(4, 3, 309), (4, 3, 296), (5, 4, 312), (6, 6, 513), (5, 4, 455), (5, 4, 359), (3, 2, 313), (3, 2, 398), (3, 2, 310), (3, 2, 249)]. 
+Previous labels: [0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:29:57,813: All Classifications: [0 0 0 1 1 1 2 2 2 2 0 1 2 2 1 2 1 0 1 2]
+TOPOLOGY - 2020-05-05 17:29:57,813: Old Classifications: [0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:29:57,813: New Classifications: [0 1 2 2 1 2 1 0 1 2]
+INFO - 2020-05-05 17:29:57,813:  -- Iterating generation 1 -- 
+TOPOLOGY - 2020-05-05 17:29:57,814: Currently 30 modules, 10 blueprints, latest iteration: [[1, 9, [0.21171528947353363, 0.927], (3, 2, 249), 2, 0], [2, 4, [0.14336845636367798, 0.961], (4, 3, 296), 0, 0], [3, 1, [2.301067897796631, 0.111], (4, 3, 309), 0, 0], [4, 8, [2.300384250640869, 0.111], (5, 4, 436), 1, 0], [5, 3, [2.300564428329468, 0.111], (5, 4, 341), 1, 0], [6, 2, [0.28152258241176603, 0.916], (3, 2, 313), 2, 0], [7, 10, [2.3003353176116943, 0.111], (5, 4, 385), 1, 0], [8, 5, [2.3007010345458982, 0.111], (5, 4, 409), 1, 0]]
+TOPOLOGY - 2020-05-05 17:29:57,814: Current modules: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33]
+TOPOLOGY - 2020-05-05 17:29:57,814: Current blueprints: [4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+TOPOLOGY - 2020-05-05 17:29:57,816: Created individuals for blueprints: [(9, 13), (10, 12), (11, 7), (12, 6), (13, 11), (14, 4), (15, 5), (16, 6)]
+INFO - 2020-05-05 17:29:57,817: Iterating fitness over 8 individuals
+WARNING - 2020-05-05 17:29:57,847: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+WARNING - 2020-05-05 17:29:57,852: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+INFO - 2020-05-05 17:29:57,857: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:29:57,857: Starting assembling of blueprint 13.
+INFO - 2020-05-05 17:29:57,861: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:29:57,861: Starting assembling of blueprint 12.
+WARNING - 2020-05-05 17:29:57,861: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+INFO - 2020-05-05 17:29:57,870: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:29:57,870: Starting assembling of blueprint 7.
+WARNING - 2020-05-05 17:29:57,870: From ./base/kerascodeepneat.py:550: The name tf.keras.backend.set_session is deprecated. Please use tf.compat.v1.keras.backend.set_session instead.
+
+INFO - 2020-05-05 17:29:57,879: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:29:57,879: Starting assembling of blueprint 6.
+TOPOLOGY - 2020-05-05 17:29:58,259: Generated the assembled graph for blueprint 13: ['input-0-0', 'output-0-0']
+INFO - 2020-05-05 17:29:58,260: Generating keras layers
+INFO - 2020-05-05 17:29:58,260: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:29:58,264: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,266: input-0-0: Working on conv2d_9369434a169240429e71c28bb4fcf61b. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,276: input-0-0: Added [<tf.Tensor 'conv2d_9369434a169240429e71c28bb4fcf61b/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,278: output-0-0: Working on dense_5af707e1613f4376b3015f40f0f1f889. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 179, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,278: output-0-0: is conv2d_9369434a169240429e71c28bb4fcf61b/Identity:0 conv2d: True. is dense_5af707e1613f4376b3015f40f0f1f889 dense: True
+INFO - 2020-05-05 17:29:58,278: Adding a Flatten() layer between conv2d_9369434a169240429e71c28bb4fcf61b/Identity:0 and dense_5af707e1613f4376b3015f40f0f1f889
+TOPOLOGY - 2020-05-05 17:29:58,281: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 26656) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,283: Generated the assembled graph for blueprint 12: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-2-0', 'intermed-2-2', 'output-0-0']
+INFO - 2020-05-05 17:29:58,284: Generating keras layers
+INFO - 2020-05-05 17:29:58,284: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:29:58,289: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,290: input-0-0: Working on conv2d_6e8848dca4354789a3bace296fdd08b9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,300: output-0-0: Added [<tf.Tensor 'dense_5af707e1613f4376b3015f40f0f1f889/Identity:0' shape=(None, 179) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,302: input-0-0: Added [<tf.Tensor 'conv2d_6e8848dca4354789a3bace296fdd08b9/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,304: intermed-0-0: Working on conv2d_1_bc62a73943f9491792faede00fe2ecb6. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,304: intermed-0-0: is conv2d_6e8848dca4354789a3bace296fdd08b9/Identity:0 conv2d: True. is conv2d_1_bc62a73943f9491792faede00fe2ecb6 dense: False
+TOPOLOGY - 2020-05-05 17:29:58,305: output-0-0: Added complement [<tf.Tensor 'dense_5af707e1613f4376b3015f40f0f1f889/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_9b010867c2564f69b5d3ecc533742800/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,305: {'input-0-0': [<tf.Tensor 'conv2d_9369434a169240429e71c28bb4fcf61b/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_5af707e1613f4376b3015f40f0f1f889/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_9b010867c2564f69b5d3ecc533742800/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:29:58,305: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_9b010867c2564f69b5d3ecc533742800/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,309: intermed-0-0: Added [<tf.Tensor 'conv2d_1_bc62a73943f9491792faede00fe2ecb6/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,330: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_bc62a73943f9491792faede00fe2ecb6/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_b7b3d47fdec64cd6b93c18cbd0f4915c/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,332: intermed-1-0: Working on conv2d_2_6d6615f1774a47e1949660be3ab3940e. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,332: intermed-1-0: is conv2d_1_bc62a73943f9491792faede00fe2ecb6/Identity:0 conv2d: True. is conv2d_2_6d6615f1774a47e1949660be3ab3940e dense: False
+TOPOLOGY - 2020-05-05 17:29:58,339: intermed-1-0: Added [<tf.Tensor 'conv2d_2_6d6615f1774a47e1949660be3ab3940e/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,351: intermed-1-0: Added complement [<tf.Tensor 'conv2d_2_6d6615f1774a47e1949660be3ab3940e/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_1_11053e3519324df99eed2efdfa5fa3d3/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,352: intermed-1-1: Working on conv2d_3_8a28874678414967bb5b09b3acae6f9a. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 27, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,352: intermed-1-1: is conv2d_2_6d6615f1774a47e1949660be3ab3940e/Identity:0 conv2d: True. is conv2d_3_8a28874678414967bb5b09b3acae6f9a dense: False
+TOPOLOGY - 2020-05-05 17:29:58,358: intermed-1-1: Added [<tf.Tensor 'conv2d_3_8a28874678414967bb5b09b3acae6f9a/Identity:0' shape=(None, 28, 28, 27) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,370: intermed-1-1: Added complement [<tf.Tensor 'conv2d_3_8a28874678414967bb5b09b3acae6f9a/Identity:0' shape=(None, 28, 28, 27) dtype=float32>, <tf.Tensor 'dropout_2_f7e44bd11fb248c29d03a6fec69fbd15/Identity:0' shape=(None, 28, 28, 27) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,371: intermed-2-0: Working on conv2d_4_57efc481e3874e4281d9d7768245894a. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,371: intermed-2-0: is conv2d_3_8a28874678414967bb5b09b3acae6f9a/Identity:0 conv2d: True. is conv2d_4_57efc481e3874e4281d9d7768245894a dense: False
+TOPOLOGY - 2020-05-05 17:29:58,376: intermed-2-0: Added [<tf.Tensor 'conv2d_4_57efc481e3874e4281d9d7768245894a/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,388: intermed-2-0: Added complement [<tf.Tensor 'conv2d_4_57efc481e3874e4281d9d7768245894a/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_3_cdedd705f3a14dc3a2f624e8897b5afe/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,389: intermed-2-2: Working on conv2d_5_4b6976c6e63448bf9813dee2b443ce5f. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 30, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,389: intermed-2-2: is conv2d_4_57efc481e3874e4281d9d7768245894a/Identity:0 conv2d: True. is conv2d_5_4b6976c6e63448bf9813dee2b443ce5f dense: False
+TOPOLOGY - 2020-05-05 17:29:58,395: intermed-2-2: Added [<tf.Tensor 'conv2d_5_4b6976c6e63448bf9813dee2b443ce5f/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,406: intermed-2-2: Added complement [<tf.Tensor 'conv2d_5_4b6976c6e63448bf9813dee2b443ce5f/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_4_42b23a99ac6946a1bc975c7f7d44174a/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,408: output-0-0: Working on dense_0ef8ba1fb2494d6480b1e199d56a57d7. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 190, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,408: output-0-0: is conv2d_5_4b6976c6e63448bf9813dee2b443ce5f/Identity:0 conv2d: True. is dense_0ef8ba1fb2494d6480b1e199d56a57d7 dense: True
+INFO - 2020-05-05 17:29:58,408: Adding a Flatten() layer between conv2d_5_4b6976c6e63448bf9813dee2b443ce5f/Identity:0 and dense_0ef8ba1fb2494d6480b1e199d56a57d7
+TOPOLOGY - 2020-05-05 17:29:58,411: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 23520) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,427: output-0-0: Added [<tf.Tensor 'dense_0ef8ba1fb2494d6480b1e199d56a57d7/Identity:0' shape=(None, 190) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,429: Generated the assembled graph for blueprint 6: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'output-0-0']
+INFO - 2020-05-05 17:29:58,430: Generating keras layers
+INFO - 2020-05-05 17:29:58,430: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:29:58,433: Generated the assembled graph for blueprint 7: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'output-0-0']
+INFO - 2020-05-05 17:29:58,433: Generating keras layers
+TOPOLOGY - 2020-05-05 17:29:58,433: output-0-0: Added complement [<tf.Tensor 'dense_0ef8ba1fb2494d6480b1e199d56a57d7/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_1_074931ac97e2466dbc568a1d2d9395a9/Identity:0' shape=(None, 10) dtype=float32>]
+INFO - 2020-05-05 17:29:58,433: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:29:58,433: {'input-0-0': [<tf.Tensor 'conv2d_6e8848dca4354789a3bace296fdd08b9/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_bc62a73943f9491792faede00fe2ecb6/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_b7b3d47fdec64cd6b93c18cbd0f4915c/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_2_6d6615f1774a47e1949660be3ab3940e/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_1_11053e3519324df99eed2efdfa5fa3d3/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_3_8a28874678414967bb5b09b3acae6f9a/Identity:0' shape=(None, 28, 28, 27) dtype=float32>, <tf.Tensor 'dropout_2_f7e44bd11fb248c29d03a6fec69fbd15/Identity:0' shape=(None, 28, 28, 27) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_4_57efc481e3874e4281d9d7768245894a/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_3_cdedd705f3a14dc3a2f624e8897b5afe/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-2-2': [<tf.Tensor 'conv2d_5_4b6976c6e63448bf9813dee2b443ce5f/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_4_42b23a99ac6946a1bc975c7f7d44174a/Identity:0' shape=(None, 28, 28, 30) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_0ef8ba1fb2494d6480b1e199d56a57d7/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_1_074931ac97e2466dbc568a1d2d9395a9/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:29:58,433: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_074931ac97e2466dbc568a1d2d9395a9/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,435: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,436: input-0-0: Working on conv2d_e9c49ef97d254019bf81feb985c74049. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 25, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,437: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,439: input-0-0: Working on conv2d_199f1636248d49e6bd6fde20213d6fe9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,448: input-0-0: Added [<tf.Tensor 'conv2d_e9c49ef97d254019bf81feb985c74049/Identity:0' shape=(None, 28, 28, 25) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,449: intermed-0-0: Working on conv2d_1_b49f5054522b47c99275bd103bc91790. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 44, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,449: intermed-0-0: is conv2d_e9c49ef97d254019bf81feb985c74049/Identity:0 conv2d: True. is conv2d_1_b49f5054522b47c99275bd103bc91790 dense: False
+TOPOLOGY - 2020-05-05 17:29:58,450: input-0-0: Added [<tf.Tensor 'conv2d_199f1636248d49e6bd6fde20213d6fe9/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,451: intermed-0-0: Working on conv2d_1_977e7798ac79430f85f8ba3f22f0520b. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,451: intermed-0-0: is conv2d_199f1636248d49e6bd6fde20213d6fe9/Identity:0 conv2d: True. is conv2d_1_977e7798ac79430f85f8ba3f22f0520b dense: False
+TOPOLOGY - 2020-05-05 17:29:58,455: intermed-0-0: Added [<tf.Tensor 'conv2d_1_b49f5054522b47c99275bd103bc91790/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,457: intermed-0-0: Added [<tf.Tensor 'conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,476: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_b49f5054522b47c99275bd103bc91790/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_7de3d80432114835af1be98dc2d93f28/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,477: intermed-0-0: Added complement [<tf.Tensor 'conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_fa4e42c92e1044e981328331c39399c9/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,477: intermed-0-1: Working on conv2d_2_cf30e9b225de467d893b3af57d0c9c96. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,477: intermed-0-1: is conv2d_1_b49f5054522b47c99275bd103bc91790/Identity:0 conv2d: True. is conv2d_2_cf30e9b225de467d893b3af57d0c9c96 dense: False
+TOPOLOGY - 2020-05-05 17:29:58,478: intermed-0-2: Working on conv2d_2_8b24b981fe974a40a6c4405aa582b70d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 25, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,478: intermed-0-2: is conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0 conv2d: True. is conv2d_2_8b24b981fe974a40a6c4405aa582b70d dense: False
+TOPOLOGY - 2020-05-05 17:29:58,483: intermed-0-1: Added [<tf.Tensor 'conv2d_2_cf30e9b225de467d893b3af57d0c9c96/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,484: intermed-0-2: Added [<tf.Tensor 'conv2d_2_8b24b981fe974a40a6c4405aa582b70d/Identity:0' shape=(None, 28, 28, 25) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,495: intermed-0-1: Added complement [<tf.Tensor 'conv2d_2_cf30e9b225de467d893b3af57d0c9c96/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_1_8c779d99475a421b87329359d787ca3d/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,496: intermed-0-2: Added complement [<tf.Tensor 'conv2d_2_8b24b981fe974a40a6c4405aa582b70d/Identity:0' shape=(None, 28, 28, 25) dtype=float32>, <tf.Tensor 'dropout_1_d45fdc751f6045c6bd9db5b3cd710fbb/Identity:0' shape=(None, 28, 28, 25) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,496: intermed-0-2: Working on conv2d_3_749052ce10a5497bb60ff784c76a8c30. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,496: intermed-0-2: is conv2d_2_cf30e9b225de467d893b3af57d0c9c96/Identity:0 conv2d: True. is conv2d_3_749052ce10a5497bb60ff784c76a8c30 dense: False
+TOPOLOGY - 2020-05-05 17:29:58,497: intermed-0-1: Working on conv2d_3_140c036b83eb493b9e899d164a25aa3c. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,497: intermed-0-1: is conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0 conv2d: True. is conv2d_3_140c036b83eb493b9e899d164a25aa3c dense: False
+TOPOLOGY - 2020-05-05 17:29:58,497: intermed-0-1: is conv2d_2_8b24b981fe974a40a6c4405aa582b70d/Identity:0 conv2d: True. is conv2d_3_140c036b83eb493b9e899d164a25aa3c dense: False
+INFO - 2020-05-05 17:29:58,497: Adding a Merge layer between conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0 and conv2d_2_8b24b981fe974a40a6c4405aa582b70d/Identity:0
+TOPOLOGY - 2020-05-05 17:29:58,500: intermed-0-1: Added Tensor("concatenate/Identity:0", shape=(None, 28, 28, 53), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,502: intermed-0-2: Added [<tf.Tensor 'conv2d_3_749052ce10a5497bb60ff784c76a8c30/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,505: intermed-0-1: Added [<tf.Tensor 'conv2d_3_140c036b83eb493b9e899d164a25aa3c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,514: intermed-0-2: Added complement [<tf.Tensor 'conv2d_3_749052ce10a5497bb60ff784c76a8c30/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_2_eee8159c170745bfbd79d5e8eae8ebbf/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,515: output-0-0: Working on dense_6bb7840cfebd482a97904301540de8c4. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 253, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,515: output-0-0: is conv2d_3_749052ce10a5497bb60ff784c76a8c30/Identity:0 conv2d: True. is dense_6bb7840cfebd482a97904301540de8c4 dense: True
+INFO - 2020-05-05 17:29:58,516: Adding a Flatten() layer between conv2d_3_749052ce10a5497bb60ff784c76a8c30/Identity:0 and dense_6bb7840cfebd482a97904301540de8c4
+TOPOLOGY - 2020-05-05 17:29:58,517: intermed-0-1: Added complement [<tf.Tensor 'conv2d_3_140c036b83eb493b9e899d164a25aa3c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_2_2cce6e6eee184c37aa9664fe1a1c3193/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,518: output-0-0: Working on dense_2a7c5b3dbbcc48ec8bc1e0876950e60b. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 179, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:29:58,518: output-0-0: is conv2d_3_140c036b83eb493b9e899d164a25aa3c/Identity:0 conv2d: True. is dense_2a7c5b3dbbcc48ec8bc1e0876950e60b dense: True
+INFO - 2020-05-05 17:29:58,518: Adding a Flatten() layer between conv2d_3_140c036b83eb493b9e899d164a25aa3c/Identity:0 and dense_2a7c5b3dbbcc48ec8bc1e0876950e60b
+TOPOLOGY - 2020-05-05 17:29:58,518: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 32928) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,521: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 31360) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,543: output-0-0: Added [<tf.Tensor 'dense_6bb7840cfebd482a97904301540de8c4/Identity:0' shape=(None, 253) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,544: output-0-0: Added [<tf.Tensor 'dense_2a7c5b3dbbcc48ec8bc1e0876950e60b/Identity:0' shape=(None, 179) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,549: output-0-0: Added complement [<tf.Tensor 'dense_6bb7840cfebd482a97904301540de8c4/Identity:0' shape=(None, 253) dtype=float32>, <tf.Tensor 'dense_1_3f20ae71387e4575a959672c063a7d7e/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,549: {'input-0-0': [<tf.Tensor 'conv2d_e9c49ef97d254019bf81feb985c74049/Identity:0' shape=(None, 28, 28, 25) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_b49f5054522b47c99275bd103bc91790/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_7de3d80432114835af1be98dc2d93f28/Identity:0' shape=(None, 28, 28, 44) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_2_cf30e9b225de467d893b3af57d0c9c96/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_1_8c779d99475a421b87329359d787ca3d/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_3_749052ce10a5497bb60ff784c76a8c30/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_2_eee8159c170745bfbd79d5e8eae8ebbf/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_6bb7840cfebd482a97904301540de8c4/Identity:0' shape=(None, 253) dtype=float32>, <tf.Tensor 'dense_1_3f20ae71387e4575a959672c063a7d7e/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:29:58,549: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_3f20ae71387e4575a959672c063a7d7e/Identity:0", shape=(None, 10), dtype=float32)
+TOPOLOGY - 2020-05-05 17:29:58,550: output-0-0: Added complement [<tf.Tensor 'dense_2a7c5b3dbbcc48ec8bc1e0876950e60b/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_a72f3887d29545e299e3dcac56758f8a/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:29:58,550: {'input-0-0': [<tf.Tensor 'conv2d_199f1636248d49e6bd6fde20213d6fe9/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_1_977e7798ac79430f85f8ba3f22f0520b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_fa4e42c92e1044e981328331c39399c9/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_2_8b24b981fe974a40a6c4405aa582b70d/Identity:0' shape=(None, 28, 28, 25) dtype=float32>, <tf.Tensor 'dropout_1_d45fdc751f6045c6bd9db5b3cd710fbb/Identity:0' shape=(None, 28, 28, 25) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_3_140c036b83eb493b9e899d164a25aa3c/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_2_2cce6e6eee184c37aa9664fe1a1c3193/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2a7c5b3dbbcc48ec8bc1e0876950e60b/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_a72f3887d29545e299e3dcac56758f8a/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:29:58,550: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_a72f3887d29545e299e3dcac56758f8a/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:30:09,480: Fitness for individual 9 using blueprint 13 after 2 epochs: {'loss': [0.4851911495994119, 0.2030388243899626], 'accuracy': [0.8492941, 0.9388235], 'val_loss': [0.25197393242518107, 0.22080482999483744], 'val_accuracy': [0.928, 0.93266666]}
+INFO - 2020-05-05 17:30:09,480: Scoring one individual
+INFO - 2020-05-05 17:30:09,941: Test scores for individual 9 using blueprint 13 after training: [0.3299450200349093, 0.904]
+INFO - 2020-05-05 17:30:09,942: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:30:09,942: Starting assembling of blueprint 11.
+TOPOLOGY - 2020-05-05 17:30:10,431: Generated the assembled graph for blueprint 11: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'output-0-0']
+INFO - 2020-05-05 17:30:10,432: Generating keras layers
+INFO - 2020-05-05 17:30:10,432: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:30:10,434: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:30:10,435: input-0-0: Working on conv2d_1_3e972652cd8941cf8e6522bdd5b0edd9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 56, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,443: input-0-0: Added [<tf.Tensor 'conv2d_1_3e972652cd8941cf8e6522bdd5b0edd9/Identity:0' shape=(None, 28, 28, 56) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,445: intermed-0-0: Working on conv2d_2_6addefa01a6c4b36917281c6e2cea6f9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 39, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,445: intermed-0-0: is conv2d_1_3e972652cd8941cf8e6522bdd5b0edd9/Identity:0 conv2d: True. is conv2d_2_6addefa01a6c4b36917281c6e2cea6f9 dense: False
+TOPOLOGY - 2020-05-05 17:30:10,452: intermed-0-0: Added [<tf.Tensor 'conv2d_2_6addefa01a6c4b36917281c6e2cea6f9/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,466: intermed-0-0: Added complement [<tf.Tensor 'conv2d_2_6addefa01a6c4b36917281c6e2cea6f9/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_6aa151c6835b4e78a1f6dba390d01c00/Identity:0' shape=(None, 28, 28, 39) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,467: intermed-0-1: Working on conv2d_3_873ba3daff14467daff6f48fbe2d53d1. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,468: intermed-0-1: is conv2d_2_6addefa01a6c4b36917281c6e2cea6f9/Identity:0 conv2d: True. is conv2d_3_873ba3daff14467daff6f48fbe2d53d1 dense: False
+TOPOLOGY - 2020-05-05 17:30:10,474: intermed-0-1: Added [<tf.Tensor 'conv2d_3_873ba3daff14467daff6f48fbe2d53d1/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,486: intermed-0-1: Added complement [<tf.Tensor 'conv2d_3_873ba3daff14467daff6f48fbe2d53d1/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_a8ec3b9002e7464386b8165527ede734/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,488: intermed-0-2: Working on conv2d_4_cc184c6dfffe4f10a9976274560c285a. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 16, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,488: intermed-0-2: is conv2d_3_873ba3daff14467daff6f48fbe2d53d1/Identity:0 conv2d: True. is conv2d_4_cc184c6dfffe4f10a9976274560c285a dense: False
+TOPOLOGY - 2020-05-05 17:30:10,494: intermed-0-2: Added [<tf.Tensor 'conv2d_4_cc184c6dfffe4f10a9976274560c285a/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,505: intermed-0-2: Added complement [<tf.Tensor 'conv2d_4_cc184c6dfffe4f10a9976274560c285a/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_2_7d298ef55ec1466bb61bc733a5ed2ef5/Identity:0' shape=(None, 28, 28, 16) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,507: intermed-1-0: Working on conv2d_5_231b4c0962774dada4240c478bbf459b. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,507: intermed-1-0: is conv2d_4_cc184c6dfffe4f10a9976274560c285a/Identity:0 conv2d: True. is conv2d_5_231b4c0962774dada4240c478bbf459b dense: False
+TOPOLOGY - 2020-05-05 17:30:10,514: intermed-1-0: Added [<tf.Tensor 'conv2d_5_231b4c0962774dada4240c478bbf459b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,526: intermed-1-0: Added complement [<tf.Tensor 'conv2d_5_231b4c0962774dada4240c478bbf459b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_3_888c1f049efd4209ab5050c841085f4b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,527: intermed-1-1: Working on conv2d_6_d211abeeec08409f907d5fa32535831d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 23, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,528: intermed-1-1: is conv2d_5_231b4c0962774dada4240c478bbf459b/Identity:0 conv2d: True. is conv2d_6_d211abeeec08409f907d5fa32535831d dense: False
+TOPOLOGY - 2020-05-05 17:30:10,534: intermed-1-1: Added [<tf.Tensor 'conv2d_6_d211abeeec08409f907d5fa32535831d/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,547: intermed-1-1: Added complement [<tf.Tensor 'conv2d_6_d211abeeec08409f907d5fa32535831d/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_4_f0b968c93f2b48a387140715a347344d/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,548: intermed-1-2: Working on conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 41, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,548: intermed-1-2: is conv2d_6_d211abeeec08409f907d5fa32535831d/Identity:0 conv2d: True. is conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3 dense: False
+TOPOLOGY - 2020-05-05 17:30:10,555: intermed-1-2: Added [<tf.Tensor 'conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,567: intermed-1-2: Added complement [<tf.Tensor 'conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_5_f3860f5511ab4cd38b1847c2a8affff8/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,568: output-0-0: Working on dense_2_bffcb4f25d6a46228730c0bc72cea346. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 129, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:10,569: output-0-0: is conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3/Identity:0 conv2d: True. is dense_2_bffcb4f25d6a46228730c0bc72cea346 dense: True
+INFO - 2020-05-05 17:30:10,569: Adding a Flatten() layer between conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3/Identity:0 and dense_2_bffcb4f25d6a46228730c0bc72cea346
+TOPOLOGY - 2020-05-05 17:30:10,572: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 32144) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,588: output-0-0: Added [<tf.Tensor 'dense_2_bffcb4f25d6a46228730c0bc72cea346/Identity:0' shape=(None, 129) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,594: output-0-0: Added complement [<tf.Tensor 'dense_2_bffcb4f25d6a46228730c0bc72cea346/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_3_916bee3f80784ebf90d987cc373f89f2/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:10,594: {'input-0-0': [<tf.Tensor 'conv2d_1_3e972652cd8941cf8e6522bdd5b0edd9/Identity:0' shape=(None, 28, 28, 56) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_2_6addefa01a6c4b36917281c6e2cea6f9/Identity:0' shape=(None, 28, 28, 39) dtype=float32>, <tf.Tensor 'dropout_6aa151c6835b4e78a1f6dba390d01c00/Identity:0' shape=(None, 28, 28, 39) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_3_873ba3daff14467daff6f48fbe2d53d1/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_1_a8ec3b9002e7464386b8165527ede734/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_4_cc184c6dfffe4f10a9976274560c285a/Identity:0' shape=(None, 28, 28, 16) dtype=float32>, <tf.Tensor 'dropout_2_7d298ef55ec1466bb61bc733a5ed2ef5/Identity:0' shape=(None, 28, 28, 16) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_5_231b4c0962774dada4240c478bbf459b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_3_888c1f049efd4209ab5050c841085f4b/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_6_d211abeeec08409f907d5fa32535831d/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_4_f0b968c93f2b48a387140715a347344d/Identity:0' shape=(None, 28, 28, 23) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_7_6b9969d18f9445a982c7fa1ad3b719d3/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_5_f3860f5511ab4cd38b1847c2a8affff8/Identity:0' shape=(None, 28, 28, 41) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_bffcb4f25d6a46228730c0bc72cea346/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_3_916bee3f80784ebf90d987cc373f89f2/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:30:10,594: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_916bee3f80784ebf90d987cc373f89f2/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:30:54,866: Fitness for individual 11 using blueprint 7 after 2 epochs: {'loss': [0.6706362048597897, 0.2569519283911761], 'accuracy': [0.80211765, 0.91729414], 'val_loss': [0.2827695087591807, 0.2025948284069697], 'val_accuracy': [0.908, 0.9393333]}
+INFO - 2020-05-05 17:30:54,867: Scoring one individual
+INFO - 2020-05-05 17:30:55,987: Test scores for individual 11 using blueprint 7 after training: [0.30570178866386416, 0.898]
+INFO - 2020-05-05 17:30:55,992: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:30:55,993: Starting assembling of blueprint 5.
+TOPOLOGY - 2020-05-05 17:30:56,740: Generated the assembled graph for blueprint 5: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'intermed-2-0', 'intermed-2-1', 'output-0-0', 'intermed-3-0', 'intermed-3-1']
+INFO - 2020-05-05 17:30:56,741: Generating keras layers
+INFO - 2020-05-05 17:30:56,741: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:30:56,743: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:30:56,744: input-0-0: Working on conv2d_4_31c8cdc0417d467fb035e0f2b22bc66b. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 33, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,752: input-0-0: Added [<tf.Tensor 'conv2d_4_31c8cdc0417d467fb035e0f2b22bc66b/Identity:0' shape=(None, 28, 28, 33) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,753: intermed-0-0: Working on conv2d_5_b76bee9396f5424cb8013eef3edc957d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,753: intermed-0-0: is conv2d_4_31c8cdc0417d467fb035e0f2b22bc66b/Identity:0 conv2d: True. is conv2d_5_b76bee9396f5424cb8013eef3edc957d dense: False
+TOPOLOGY - 2020-05-05 17:30:56,759: intermed-0-0: Added [<tf.Tensor 'conv2d_5_b76bee9396f5424cb8013eef3edc957d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,773: intermed-0-0: Added complement [<tf.Tensor 'conv2d_5_b76bee9396f5424cb8013eef3edc957d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_3_2def35b7c31743ea9ba092497df80f7b/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,774: intermed-1-0: Working on conv2d_6_05f8627da874469d932eff94b4ff81ea. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 18, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,774: intermed-1-0: is conv2d_5_b76bee9396f5424cb8013eef3edc957d/Identity:0 conv2d: True. is conv2d_6_05f8627da874469d932eff94b4ff81ea dense: False
+TOPOLOGY - 2020-05-05 17:30:56,781: intermed-1-0: Added [<tf.Tensor 'conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0' shape=(None, 28, 28, 18) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,793: intermed-1-0: Added complement [<tf.Tensor 'conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0' shape=(None, 28, 28, 18) dtype=float32>, <tf.Tensor 'dropout_4_48d2da122f8045939440f2a5e14db323/Identity:0' shape=(None, 28, 28, 18) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,797: intermed-1-2: Working on conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,797: intermed-1-2: is conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0 conv2d: True. is conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438 dense: False
+TOPOLOGY - 2020-05-05 17:30:56,804: intermed-1-2: Added [<tf.Tensor 'conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,816: intermed-1-2: Added complement [<tf.Tensor 'conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_5_33c25de8c68b4e389a443232f588a976/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,817: intermed-1-1: Working on conv2d_8_ae0128149a1a4f2badf619d46c6ae064. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 48, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,817: intermed-1-1: is conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0 conv2d: True. is conv2d_8_ae0128149a1a4f2badf619d46c6ae064 dense: False
+TOPOLOGY - 2020-05-05 17:30:56,817: intermed-1-1: is conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438/Identity:0 conv2d: True. is conv2d_8_ae0128149a1a4f2badf619d46c6ae064 dense: False
+INFO - 2020-05-05 17:30:56,818: Adding a Merge layer between conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0 and conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438/Identity:0
+TOPOLOGY - 2020-05-05 17:30:56,820: intermed-1-1: Added Tensor("concatenate_1/Identity:0", shape=(None, 28, 28, 58), dtype=float32)
+TOPOLOGY - 2020-05-05 17:30:56,828: intermed-1-1: Added [<tf.Tensor 'conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0' shape=(None, 28, 28, 48) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,842: intermed-1-1: Added complement [<tf.Tensor 'conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0' shape=(None, 28, 28, 48) dtype=float32>, <tf.Tensor 'dropout_6_a617d886e18c4669bb84ad42cbcc57bb/Identity:0' shape=(None, 28, 28, 48) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,844: intermed-3-0: Working on conv2d_9_212fe0fb74514ec391b9bfdadcb62f77. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 45, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,844: intermed-3-0: is conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0 conv2d: True. is conv2d_9_212fe0fb74514ec391b9bfdadcb62f77 dense: False
+TOPOLOGY - 2020-05-05 17:30:56,851: intermed-3-0: Added [<tf.Tensor 'conv2d_9_212fe0fb74514ec391b9bfdadcb62f77/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,864: intermed-3-0: Added complement [<tf.Tensor 'conv2d_9_212fe0fb74514ec391b9bfdadcb62f77/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_7_34e2c2cd153e415d8b419d832e5869b0/Identity:0' shape=(None, 28, 28, 45) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,868: intermed-3-1: Working on conv2d_10_6369a398d8c24798a71db5778a4fa80d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 19, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,868: intermed-3-1: is conv2d_9_212fe0fb74514ec391b9bfdadcb62f77/Identity:0 conv2d: True. is conv2d_10_6369a398d8c24798a71db5778a4fa80d dense: False
+TOPOLOGY - 2020-05-05 17:30:56,875: intermed-3-1: Added [<tf.Tensor 'conv2d_10_6369a398d8c24798a71db5778a4fa80d/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,889: intermed-3-1: Added complement [<tf.Tensor 'conv2d_10_6369a398d8c24798a71db5778a4fa80d/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_8_e417da5d074045b487b352530cf9b45b/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,890: intermed-2-0: Working on conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,891: intermed-2-0: is conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0 conv2d: True. is conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9 dense: False
+TOPOLOGY - 2020-05-05 17:30:56,891: intermed-2-0: is conv2d_10_6369a398d8c24798a71db5778a4fa80d/Identity:0 conv2d: True. is conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9 dense: False
+INFO - 2020-05-05 17:30:56,891: Adding a Merge layer between conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0 and conv2d_10_6369a398d8c24798a71db5778a4fa80d/Identity:0
+TOPOLOGY - 2020-05-05 17:30:56,894: intermed-2-0: Added Tensor("concatenate_2/Identity:0", shape=(None, 28, 28, 67), dtype=float32)
+TOPOLOGY - 2020-05-05 17:30:56,900: intermed-2-0: Added [<tf.Tensor 'conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,913: intermed-2-0: Added complement [<tf.Tensor 'conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_9_a703908259af4bf6994a9478f08fb1f4/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,914: intermed-2-1: Working on conv2d_12_aa5397b115044db69c0b706fcac581b9. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,915: intermed-2-1: is conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9/Identity:0 conv2d: True. is conv2d_12_aa5397b115044db69c0b706fcac581b9 dense: False
+TOPOLOGY - 2020-05-05 17:30:56,921: intermed-2-1: Added [<tf.Tensor 'conv2d_12_aa5397b115044db69c0b706fcac581b9/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,934: intermed-2-1: Added complement [<tf.Tensor 'conv2d_12_aa5397b115044db69c0b706fcac581b9/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_10_0b7aad1797074fee8c2e8bb8927072a0/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,935: output-0-0: Working on dense_2_f7c53b1025c5423db36dbdf0eb6e24cd. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 190, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:30:56,935: output-0-0: is conv2d_12_aa5397b115044db69c0b706fcac581b9/Identity:0 conv2d: True. is dense_2_f7c53b1025c5423db36dbdf0eb6e24cd dense: True
+INFO - 2020-05-05 17:30:56,935: Adding a Flatten() layer between conv2d_12_aa5397b115044db69c0b706fcac581b9/Identity:0 and dense_2_f7c53b1025c5423db36dbdf0eb6e24cd
+TOPOLOGY - 2020-05-05 17:30:56,938: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 31360) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,955: output-0-0: Added [<tf.Tensor 'dense_2_f7c53b1025c5423db36dbdf0eb6e24cd/Identity:0' shape=(None, 190) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,960: output-0-0: Added complement [<tf.Tensor 'dense_2_f7c53b1025c5423db36dbdf0eb6e24cd/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_88784312027842d5a4b3887018345322/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:30:56,960: {'input-0-0': [<tf.Tensor 'conv2d_4_31c8cdc0417d467fb035e0f2b22bc66b/Identity:0' shape=(None, 28, 28, 33) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_5_b76bee9396f5424cb8013eef3edc957d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_3_2def35b7c31743ea9ba092497df80f7b/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_6_05f8627da874469d932eff94b4ff81ea/Identity:0' shape=(None, 28, 28, 18) dtype=float32>, <tf.Tensor 'dropout_4_48d2da122f8045939440f2a5e14db323/Identity:0' shape=(None, 28, 28, 18) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_7_301dbe00e7ce4ee2a3aaf4bfa8a17438/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_5_33c25de8c68b4e389a443232f588a976/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_8_ae0128149a1a4f2badf619d46c6ae064/Identity:0' shape=(None, 28, 28, 48) dtype=float32>, <tf.Tensor 'dropout_6_a617d886e18c4669bb84ad42cbcc57bb/Identity:0' shape=(None, 28, 28, 48) dtype=float32>], 'intermed-3-0': [<tf.Tensor 'conv2d_9_212fe0fb74514ec391b9bfdadcb62f77/Identity:0' shape=(None, 28, 28, 45) dtype=float32>, <tf.Tensor 'dropout_7_34e2c2cd153e415d8b419d832e5869b0/Identity:0' shape=(None, 28, 28, 45) dtype=float32>], 'intermed-3-1': [<tf.Tensor 'conv2d_10_6369a398d8c24798a71db5778a4fa80d/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_8_e417da5d074045b487b352530cf9b45b/Identity:0' shape=(None, 28, 28, 19) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_11_d9b2b5ce1980493f9b6664cb8b849bf9/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_9_a703908259af4bf6994a9478f08fb1f4/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'intermed-2-1': [<tf.Tensor 'conv2d_12_aa5397b115044db69c0b706fcac581b9/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_10_0b7aad1797074fee8c2e8bb8927072a0/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_f7c53b1025c5423db36dbdf0eb6e24cd/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_88784312027842d5a4b3887018345322/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:30:56,960: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_88784312027842d5a4b3887018345322/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:31:30,402: Fitness for individual 12 using blueprint 6 after 2 epochs: {'loss': [0.6613912847532946, 0.11792237295122708], 'accuracy': [0.8127059, 0.9638823], 'val_loss': [0.14349246811866762, 0.11013847406705221], 'val_accuracy': [0.95266664, 0.9673333]}
+INFO - 2020-05-05 17:31:30,402: Scoring one individual
+INFO - 2020-05-05 17:31:32,330: Test scores for individual 12 using blueprint 6 after training: [0.1695462780892849, 0.945]
+INFO - 2020-05-05 17:31:32,331: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:31:32,331: Starting assembling of blueprint 6.
+TOPOLOGY - 2020-05-05 17:31:32,918: Generated the assembled graph for blueprint 6: ['input-0-0', 'intermed-0-0', 'intermed-0-1', 'intermed-0-2', 'output-0-0']
+INFO - 2020-05-05 17:31:32,918: Generating keras layers
+INFO - 2020-05-05 17:31:32,918: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:31:32,921: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:31:32,922: input-0-0: Working on conv2d_4_23f7a642baa643ffb72167f52304cddd. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 25, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:32,931: input-0-0: Added [<tf.Tensor 'conv2d_4_23f7a642baa643ffb72167f52304cddd/Identity:0' shape=(None, 28, 28, 25) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,932: intermed-0-0: Working on conv2d_5_c0806552bfcc4783a0c8946c0be3c311. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 44, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:32,932: intermed-0-0: is conv2d_4_23f7a642baa643ffb72167f52304cddd/Identity:0 conv2d: True. is conv2d_5_c0806552bfcc4783a0c8946c0be3c311 dense: False
+TOPOLOGY - 2020-05-05 17:31:32,938: intermed-0-0: Added [<tf.Tensor 'conv2d_5_c0806552bfcc4783a0c8946c0be3c311/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,951: intermed-0-0: Added complement [<tf.Tensor 'conv2d_5_c0806552bfcc4783a0c8946c0be3c311/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_3_1dc776e90ec3412580cafdc9aa9d087f/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,954: intermed-0-1: Working on conv2d_6_4fd41a6a35f844e28659c07fadcb80fe. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:32,954: intermed-0-1: is conv2d_5_c0806552bfcc4783a0c8946c0be3c311/Identity:0 conv2d: True. is conv2d_6_4fd41a6a35f844e28659c07fadcb80fe dense: False
+TOPOLOGY - 2020-05-05 17:31:32,961: intermed-0-1: Added [<tf.Tensor 'conv2d_6_4fd41a6a35f844e28659c07fadcb80fe/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,974: intermed-0-1: Added complement [<tf.Tensor 'conv2d_6_4fd41a6a35f844e28659c07fadcb80fe/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_4_0b378d3e812f40748c5da4d74ab71bcf/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,976: intermed-0-2: Working on conv2d_7_c75537499f874fedb2dd4595b74209af. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:32,976: intermed-0-2: is conv2d_6_4fd41a6a35f844e28659c07fadcb80fe/Identity:0 conv2d: True. is conv2d_7_c75537499f874fedb2dd4595b74209af dense: False
+TOPOLOGY - 2020-05-05 17:31:32,982: intermed-0-2: Added [<tf.Tensor 'conv2d_7_c75537499f874fedb2dd4595b74209af/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,995: intermed-0-2: Added complement [<tf.Tensor 'conv2d_7_c75537499f874fedb2dd4595b74209af/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_5_8a98ec5c38964024912b9da097dbe0cd/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:32,996: output-0-0: Working on dense_2_9b84def6aef24ae08dafe8e45dafdaa8. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 253, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:32,996: output-0-0: is conv2d_7_c75537499f874fedb2dd4595b74209af/Identity:0 conv2d: True. is dense_2_9b84def6aef24ae08dafe8e45dafdaa8 dense: True
+INFO - 2020-05-05 17:31:32,996: Adding a Flatten() layer between conv2d_7_c75537499f874fedb2dd4595b74209af/Identity:0 and dense_2_9b84def6aef24ae08dafe8e45dafdaa8
+TOPOLOGY - 2020-05-05 17:31:32,999: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 32928) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:33,026: output-0-0: Added [<tf.Tensor 'dense_2_9b84def6aef24ae08dafe8e45dafdaa8/Identity:0' shape=(None, 253) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:33,032: output-0-0: Added complement [<tf.Tensor 'dense_2_9b84def6aef24ae08dafe8e45dafdaa8/Identity:0' shape=(None, 253) dtype=float32>, <tf.Tensor 'dense_3_8e30886c64fd4fef80bfcca6946bfe84/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:33,032: {'input-0-0': [<tf.Tensor 'conv2d_4_23f7a642baa643ffb72167f52304cddd/Identity:0' shape=(None, 28, 28, 25) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_5_c0806552bfcc4783a0c8946c0be3c311/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_3_1dc776e90ec3412580cafdc9aa9d087f/Identity:0' shape=(None, 28, 28, 44) dtype=float32>], 'intermed-0-1': [<tf.Tensor 'conv2d_6_4fd41a6a35f844e28659c07fadcb80fe/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_4_0b378d3e812f40748c5da4d74ab71bcf/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'intermed-0-2': [<tf.Tensor 'conv2d_7_c75537499f874fedb2dd4595b74209af/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_5_8a98ec5c38964024912b9da097dbe0cd/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_9b84def6aef24ae08dafe8e45dafdaa8/Identity:0' shape=(None, 253) dtype=float32>, <tf.Tensor 'dense_3_8e30886c64fd4fef80bfcca6946bfe84/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:31:33,032: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_8e30886c64fd4fef80bfcca6946bfe84/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:31:38,066: Fitness for individual 10 using blueprint 12 after 2 epochs: {'loss': [0.6329213283903459, 0.21066708941144102], 'accuracy': [0.7948235, 0.9356471], 'val_loss': [0.2530197660923004, 0.14956793717543285], 'val_accuracy': [0.9433333, 0.96]}
+INFO - 2020-05-05 17:31:38,067: Scoring one individual
+INFO - 2020-05-05 17:31:39,892: Test scores for individual 10 using blueprint 12 after training: [0.20695692360401152, 0.935]
+INFO - 2020-05-05 17:31:39,893: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:31:39,893: Starting assembling of blueprint 4.
+TOPOLOGY - 2020-05-05 17:31:40,488: Generated the assembled graph for blueprint 4: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'output-0-0']
+INFO - 2020-05-05 17:31:40,489: Generating keras layers
+INFO - 2020-05-05 17:31:40,489: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:31:40,491: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:31:40,492: input-0-0: Working on conv2d_6_70aca7cb73484ac281b80a477473ee95. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 56, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,499: input-0-0: Added [<tf.Tensor 'conv2d_6_70aca7cb73484ac281b80a477473ee95/Identity:0' shape=(None, 28, 28, 56) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,500: intermed-0-0: Working on conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 19, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,501: intermed-0-0: is conv2d_6_70aca7cb73484ac281b80a477473ee95/Identity:0 conv2d: True. is conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1 dense: False
+TOPOLOGY - 2020-05-05 17:31:40,506: intermed-0-0: Added [<tf.Tensor 'conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,519: intermed-0-0: Added complement [<tf.Tensor 'conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_5_1c8f2c38e70b449a84cb29be24471dc4/Identity:0' shape=(None, 28, 28, 19) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,521: intermed-1-0: Working on conv2d_8_8992509424e04381bfc37a7c804f0dbb. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 28, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,521: intermed-1-0: is conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1/Identity:0 conv2d: True. is conv2d_8_8992509424e04381bfc37a7c804f0dbb dense: False
+TOPOLOGY - 2020-05-05 17:31:40,527: intermed-1-0: Added [<tf.Tensor 'conv2d_8_8992509424e04381bfc37a7c804f0dbb/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,540: intermed-1-0: Added complement [<tf.Tensor 'conv2d_8_8992509424e04381bfc37a7c804f0dbb/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_6_90d92750be6c48509c3b2942b20d6278/Identity:0' shape=(None, 28, 28, 28) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,541: intermed-1-1: Working on conv2d_9_008a5c5b6f1248918b89baeb25dee312. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 23, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,541: intermed-1-1: is conv2d_8_8992509424e04381bfc37a7c804f0dbb/Identity:0 conv2d: True. is conv2d_9_008a5c5b6f1248918b89baeb25dee312 dense: False
+TOPOLOGY - 2020-05-05 17:31:40,548: intermed-1-1: Added [<tf.Tensor 'conv2d_9_008a5c5b6f1248918b89baeb25dee312/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,562: intermed-1-1: Added complement [<tf.Tensor 'conv2d_9_008a5c5b6f1248918b89baeb25dee312/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_7_514808d103334e108993440338e206fd/Identity:0' shape=(None, 28, 28, 23) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,564: intermed-1-2: Working on conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 41, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,564: intermed-1-2: is conv2d_9_008a5c5b6f1248918b89baeb25dee312/Identity:0 conv2d: True. is conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b dense: False
+TOPOLOGY - 2020-05-05 17:31:40,571: intermed-1-2: Added [<tf.Tensor 'conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,583: intermed-1-2: Added complement [<tf.Tensor 'conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_8_bc513f04c9344a4e88eb0231ea2ac85a/Identity:0' shape=(None, 28, 28, 41) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,584: output-0-0: Working on dense_2_d9d873fa430d48c6b8bd78d9839a61f4. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 129, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:31:40,584: output-0-0: is conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b/Identity:0 conv2d: True. is dense_2_d9d873fa430d48c6b8bd78d9839a61f4 dense: True
+INFO - 2020-05-05 17:31:40,584: Adding a Flatten() layer between conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b/Identity:0 and dense_2_d9d873fa430d48c6b8bd78d9839a61f4
+TOPOLOGY - 2020-05-05 17:31:40,587: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 32144) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,604: output-0-0: Added [<tf.Tensor 'dense_2_d9d873fa430d48c6b8bd78d9839a61f4/Identity:0' shape=(None, 129) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,611: output-0-0: Added complement [<tf.Tensor 'dense_2_d9d873fa430d48c6b8bd78d9839a61f4/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_3_37a12ffd836d416dad3a90484517d266/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:31:40,611: {'input-0-0': [<tf.Tensor 'conv2d_6_70aca7cb73484ac281b80a477473ee95/Identity:0' shape=(None, 28, 28, 56) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_7_f66955f6cd5b42bf93b32b9aaf9762e1/Identity:0' shape=(None, 28, 28, 19) dtype=float32>, <tf.Tensor 'dropout_5_1c8f2c38e70b449a84cb29be24471dc4/Identity:0' shape=(None, 28, 28, 19) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_8_8992509424e04381bfc37a7c804f0dbb/Identity:0' shape=(None, 28, 28, 28) dtype=float32>, <tf.Tensor 'dropout_6_90d92750be6c48509c3b2942b20d6278/Identity:0' shape=(None, 28, 28, 28) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_9_008a5c5b6f1248918b89baeb25dee312/Identity:0' shape=(None, 28, 28, 23) dtype=float32>, <tf.Tensor 'dropout_7_514808d103334e108993440338e206fd/Identity:0' shape=(None, 28, 28, 23) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_10_a49e28e86a4f40aaa7c7d0b68e50959b/Identity:0' shape=(None, 28, 28, 41) dtype=float32>, <tf.Tensor 'dropout_8_bc513f04c9344a4e88eb0231ea2ac85a/Identity:0' shape=(None, 28, 28, 41) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_d9d873fa430d48c6b8bd78d9839a61f4/Identity:0' shape=(None, 129) dtype=float32>, <tf.Tensor 'dense_3_37a12ffd836d416dad3a90484517d266/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:31:40,611: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_37a12ffd836d416dad3a90484517d266/Identity:0", shape=(None, 10), dtype=float32)
+INFO - 2020-05-05 17:32:09,159: Fitness for individual 13 using blueprint 11 after 2 epochs: {'loss': [2.3245109683766083, 2.3027623076719395], 'accuracy': [0.11917647, 0.09788235], 'val_loss': [2.3000440680185954, 2.299435989379883], 'val_accuracy': [0.12, 0.12]}
+INFO - 2020-05-05 17:32:09,160: Scoring one individual
+INFO - 2020-05-05 17:32:11,511: Test scores for individual 13 using blueprint 11 after training: [2.3011883735656737, 0.099]
+INFO - 2020-05-05 17:32:36,722: Fitness for individual 14 using blueprint 4 after 2 epochs: {'loss': [0.6137014369613984, 0.14160547381990096], 'accuracy': [0.7962353, 0.9536471], 'val_loss': [0.15465231402715046, 0.08590547307332357], 'val_accuracy': [0.952, 0.974]}
+INFO - 2020-05-05 17:32:36,722: Scoring one individual
+INFO - 2020-05-05 17:32:37,755: Test scores for individual 14 using blueprint 4 after training: [0.14682036543637514, 0.953]
+INFO - 2020-05-05 17:33:01,887: Fitness for individual 16 using blueprint 6 after 2 epochs: {'loss': [0.9407928103559158, 0.26028824836366315], 'accuracy': [0.7155294, 0.9177647], 'val_loss': [0.276725896080335, 0.20246701999505362], 'val_accuracy': [0.9073333, 0.94266665]}
+INFO - 2020-05-05 17:33:01,888: Scoring one individual
+INFO - 2020-05-05 17:33:03,692: Test scores for individual 16 using blueprint 6 after training: [0.270549247443676, 0.916]
+INFO - 2020-05-05 17:34:05,990: Fitness for individual 15 using blueprint 5 after 2 epochs: {'loss': [2.652620217379402, 2.30258837183784], 'accuracy': [0.096117646, 0.10047059], 'val_loss': [2.299958130518595, 2.2997534828186037], 'val_accuracy': [0.104666665, 0.12]}
+INFO - 2020-05-05 17:34:05,990: Scoring one individual
+INFO - 2020-05-05 17:34:09,821: Test scores for individual 15 using blueprint 5 after training: [2.300882972717285, 0.099]
+TOPOLOGY - 2020-05-05 17:34:09,857: This iteration: [[9, 13, [0.3299450200349093, 0.904], (2, 1, 213), 2, 1], [10, 12, [0.20695692360401152, 0.935], (5, 4, 407), 1, 1], [11, 7, [0.30570178866386416, 0.898], (3, 2, 310), 2, 1], [12, 6, [0.1695462780892849, 0.945], (3, 2, 398), 2, 1], [13, 11, [2.3011883735656737, 0.099], (4, 3, 360), 0, 1], [14, 4, [0.14682036543637514, 0.953], (4, 3, 296), 0, 1], [15, 5, [2.300882972717285, 0.099], (6, 6, 513), 1, 1], [16, 6, [0.270549247443676, 0.916], (3, 2, 398), 2, 1]]
+TOPOLOGY - 2020-05-05 17:34:09,859: Best model chosen: [14, 4, [0.14682036543637514, 0.953], (4, 3, 296), 0, 1]
+ERROR - 2020-05-05 17:34:09,860: Model from generation 1 could not be saved.
+TOPOLOGY - 2020-05-05 17:34:09,860: 
+
+ --------------- Generation 1 Summary -------------- 
+
+TOPOLOGY - 2020-05-05 17:34:09,860: Current 8 individuals: [9, 10, 11, 12, 13, 14, 15, 16]
+TOPOLOGY - 2020-05-05 17:34:09,861: Current 10 blueprints: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[  4  99   0   0   4   3 296] 
+[  5  99   0   1   6   6 513] 
+[  6  99   0   2   3   2 398] 
+[  7  99   0   2   3   2 310] 
+[  8  99   0   1   5   4 455] 
+[  9  99   0   2   3   2 249] 
+[ 10  99   0   1   5   4 359] 
+[ 11  99   0   0   4   3 360] 
+[ 12  99   0   1   5   4 407] 
+[ 13  99   0   2   2   1 213]]
+TOPOLOGY - 2020-05-05 17:34:09,862: Current 3 blueprint species: [0, 1, 2]
+TOPOLOGY - 2020-05-05 17:34:09,862: NOTE: Scores are considering past iteration. Not considering current blueprints for they are not yet all evaluated.
+TOPOLOGY - 2020-05-05 17:34:09,862: Current blueprint species 0 scores: [99, 0]. members: [4, 11]
+TOPOLOGY - 2020-05-05 17:34:09,862: Current blueprint species 1 scores: [99, 0]. members: [5, 8, 10, 12]
+TOPOLOGY - 2020-05-05 17:34:09,862: Current blueprint species 2 scores: [99, 0]. members: [6, 7, 9, 13]
+TOPOLOGY - 2020-05-05 17:34:09,863: Current 30 modules: 
+[Mark, Test loss, Test acc, Species, Node Count, Edge Count, Neuron Count]
+[[  4  99   0   1   3   2  83] 
+[  5  99   0   2   1   0  28] 
+[  6  99   0   0   2   1  66] 
+[  7  99   0   1   3   2 112] 
+[  8  99   0   1   3   2  92] 
+[  9  99   0   2   1   0  34] 
+[ 10  99   0   1   3   3  93] 
+[ 11  99   0   0   2   1  74] 
+[ 12  99   0   2   1   0  29] 
+[ 13  99   0   0   2   1  82] 
+[ 14  99   0   2   1   0  38] 
+[ 15  99   0   0   2   1  64] 
+[ 16  99   0   2   1   0  19] 
+[ 17  99   0   1   4   4  99] 
+[ 18  99   0   1   3   2  90] 
+[ 19  99   0   0   2   1  60] 
+[ 20  99   0   0   2   1  69] 
+[ 21  99   0   1   3   3 106] 
+[ 22  99   0   2   1   0  26] 
+[ 23  99   0   1   3   2  79] 
+[ 24  99   0   2   1   0  24] 
+[ 25  99   0   1   4   4 119] 
+[ 26  99   0   0   2   1  70] 
+[ 27  99   0   0   2   1  52] 
+[ 28  99   0   0   2   1  45] 
+[ 29  99   0   1   3   2 120] 
+[ 30  99   0   2   1   0  38] 
+[ 31  99   0   0   2   1  69] 
+[ 32  99   0   1   3   2 120] 
+[ 33  99   0   2   1   0  38]]
+TOPOLOGY - 2020-05-05 17:34:09,863: Current 3 module species: [0, 1, 2]
+TOPOLOGY - 2020-05-05 17:34:09,863: NOTE: Scores are considering past iteration. Not considering current modules for they are not yet all evaluated.
+TOPOLOGY - 2020-05-05 17:34:09,863: Current module species 0 scores: [99, 0]. members: [6, 11, 13, 15, 19, 20, 26, 27, 28, 31]
+TOPOLOGY - 2020-05-05 17:34:09,863: Current module species 1 scores: [99, 0]. members: [4, 7, 8, 10, 17, 18, 21, 23, 25, 29, 32]
+TOPOLOGY - 2020-05-05 17:34:09,863: Current module species 2 scores: [99, 0]. members: [5, 9, 12, 14, 16, 22, 24, 30, 33]
+TOPOLOGY - 2020-05-05 17:34:09,863: 
+ -------------------------------------------- 
+
+TOPOLOGY - 2020-05-05 17:34:09,864: Species 0 ordering: [[6, [99, 0]], [11, [99, 0]], [13, [99, 0]], [15, [99, 0]], [19, [99, 0]], [20, [99, 0]], [26, [99, 0]], [27, [99, 0]], [28, [99, 0]], [31, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,864: Species 1 ordering: [[4, [99, 0]], [7, [99, 0]], [8, [99, 0]], [10, [99, 0]], [17, [99, 0]], [18, [99, 0]], [21, [99, 0]], [23, [99, 0]], [25, [99, 0]], [29, [99, 0]], [32, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,865: Species 2 ordering: [[5, [99, 0]], [9, [99, 0]], [12, [99, 0]], [14, [99, 0]], [16, [99, 0]], [22, [99, 0]], [24, [99, 0]], [30, [99, 0]], [33, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,865: Excluding module: 4
+TOPOLOGY - 2020-05-05 17:34:09,865: Excluding module: 5
+TOPOLOGY - 2020-05-05 17:34:09,865: Excluding module: 6
+TOPOLOGY - 2020-05-05 17:34:09,865: Including offspring modules: [34, 35, 36]
+TOPOLOGY - 2020-05-05 17:34:09,866: Impossible to mutate candidate module 31 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a050>>.
+TOPOLOGY - 2020-05-05 17:34:09,867: Impossible to mutate candidate module 21 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c2c410>>.
+TOPOLOGY - 2020-05-05 17:34:09,867: Mutated candidate module 13 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a450>>.
+TOPOLOGY - 2020-05-05 17:34:09,868: Mutated candidate module 17 with <bound method GraphOperator.mutate_by_node_removal of <kerascodeepneat.GraphOperator object at 0x2b8d74a7d410>>.
+TOPOLOGY - 2020-05-05 17:34:09,868: Impossible to mutate candidate module 10 with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a450>>.
+TOPOLOGY - 2020-05-05 17:34:09,869: Impossible to mutate candidate module 26 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a050>>.
+TOPOLOGY - 2020-05-05 17:34:09,869: Impossible to mutate candidate module 15 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c2c410>>.
+TOPOLOGY - 2020-05-05 17:34:09,869: Impossible to mutate candidate module 20 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a050>>.
+TOPOLOGY - 2020-05-05 17:34:09,870: Impossible to mutate candidate module 32 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74e1a710>>.
+TOPOLOGY - 2020-05-05 17:34:09,870: Impossible to mutate candidate module 35 with <bound method GraphOperator.mutate_by_node_addition_in_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74c2c410>>.
+TOPOLOGY - 2020-05-05 17:34:09,870: Mutated 15 modules.
+TOPOLOGY - 2020-05-05 17:34:09,871: Previous species members: [(2, 1, 66), (2, 1, 74), (3, 3, 99), (2, 1, 64), (2, 1, 60), (2, 1, 69), (2, 1, 70), (2, 1, 52), (2, 1, 45), (2, 1, 69), (3, 2, 83), (3, 2, 112), (3, 2, 92), (3, 3, 93), (3, 3, 67), (3, 2, 90), (3, 3, 106), (3, 2, 79), (4, 4, 119), (3, 2, 120), (3, 2, 120), (1, 0, 28), (1, 0, 34), (1, 0, 29), (1, 0, 38), (1, 0, 19), (1, 0, 26), (1, 0, 24), (1, 0, 38), (1, 0, 38)]. 
+Previous labels: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:34:09,873: All Classifications: [0 0 1 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 2 2 2 2 2 2 2 2 2 1 1 2 1 0 2 1
+ 2 0 2 1 1 0 0 1 2 1 2 1 0 0 0 1 2 0 1 2 0 1 2]
+TOPOLOGY - 2020-05-05 17:34:09,874: Old Classifications: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:34:09,874: New Classifications: [1 1 2 1 0 2 1 2 0 2 1 1 0 0 1 2 1 2 1 0 0 0 1 2 0 1 2 0 1 2]
+TOPOLOGY - 2020-05-05 17:34:09,878: Species 0 ordering: [[4, [99, 0]], [11, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,886: Species 1 ordering: [[5, [99, 0]], [8, [99, 0]], [10, [99, 0]], [12, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,886: Species 2 ordering: [[6, [99, 0]], [7, [99, 0]], [9, [99, 0]], [13, [99, 0]]]
+TOPOLOGY - 2020-05-05 17:34:09,886: Excluding blueprint: 4
+TOPOLOGY - 2020-05-05 17:34:09,886: Excluding blueprint: 5
+TOPOLOGY - 2020-05-05 17:34:09,886: Excluding blueprint: 6
+TOPOLOGY - 2020-05-05 17:34:09,886: Including offspring blueprints: [14, 15, 16]
+TOPOLOGY - 2020-05-05 17:34:09,886: Impossible to mutate candidate blueprint 13 with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1ae10>>.
+TOPOLOGY - 2020-05-05 17:34:09,886: Mutated candidate blueprint 14 to graph: ['input-0', 'intermed-0', 'intermed-1', 'output-0', 'intermed-2'] with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74acc690>>.
+TOPOLOGY - 2020-05-05 17:34:09,887: Mutated candidate blueprint 9 to graph: ['input-0', 'intermed-0', 'output-0'] with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1ae10>>.
+TOPOLOGY - 2020-05-05 17:34:09,887: Mutated candidate blueprint 15 to graph: ['input-0', 'intermed-0', 'intermed-1', 'intermed-2', 'output-0', 'intermed-3'] with <bound method GraphOperator.mutate_by_node_addition_outside_edges of <kerascodeepneat.GraphOperator object at 0x2b8d74acc690>>.
+TOPOLOGY - 2020-05-05 17:34:09,887: Mutated candidate blueprint 12 to graph: ['input-0', 'intermed-0', 'intermed-1', 'intermed-2', 'output-0'] with <bound method GraphOperator.mutate_by_node_replacement of <kerascodeepneat.GraphOperator object at 0x2b8d74e1ae10>>.
+TOPOLOGY - 2020-05-05 17:34:09,887: Mutated 5 blueprints.
+TOPOLOGY - 2020-05-05 17:34:09,887: Previous species members: [(4, 3, 296), (4, 3, 360), (6, 6, 530), (5, 4, 455), (5, 4, 327), (5, 4, 458), (3, 2, 398), (3, 2, 310), (3, 2, 269), (2, 1, 213)]. 
+Previous labels: [0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:34:09,889: All Classifications: [0 0 1 1 0 1 2 2 2 2 2 1 2 0 0 1 2 1 1 2]
+TOPOLOGY - 2020-05-05 17:34:09,889: Old Classifications: [0, 0, 1, 1, 1, 1, 2, 2, 2, 2]
+TOPOLOGY - 2020-05-05 17:34:09,889: New Classifications: [2 1 2 0 0 1 2 1 1 2]
+INFO - 2020-05-05 17:34:09,929: Training 9 for 2 epochs. Blueprint: 13.
+INFO - 2020-05-05 17:34:09,929: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:34:09,929: Starting assembling of blueprint 13.
+TOPOLOGY - 2020-05-05 17:34:10,292: Generated the assembled graph for blueprint 13: ['input-0-0', 'output-0-0']
+INFO - 2020-05-05 17:34:10,293: Generating keras layers
+INFO - 2020-05-05 17:34:10,293: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:34:10,296: Added Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:34:10,297: input-0-0: Working on conv2d_d8c21a2ea8ed4ea1a3cf93ffcc056289. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:34:10,314: input-0-0: Added [<tf.Tensor 'conv2d_d8c21a2ea8ed4ea1a3cf93ffcc056289/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:34:10,315: output-0-0: Working on dense_44e611b55f01475680faf8d3ccac525b. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 179, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:34:10,315: output-0-0: is conv2d_d8c21a2ea8ed4ea1a3cf93ffcc056289/Identity:0 conv2d: True. is dense_44e611b55f01475680faf8d3ccac525b dense: True
+INFO - 2020-05-05 17:34:10,315: Adding a Flatten() layer between conv2d_d8c21a2ea8ed4ea1a3cf93ffcc056289/Identity:0 and dense_44e611b55f01475680faf8d3ccac525b
+TOPOLOGY - 2020-05-05 17:34:10,318: output-0-0: Added [<tf.Tensor 'flatten/Identity:0' shape=(None, 26656) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:34:10,335: output-0-0: Added [<tf.Tensor 'dense_44e611b55f01475680faf8d3ccac525b/Identity:0' shape=(None, 179) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:34:10,341: output-0-0: Added complement [<tf.Tensor 'dense_44e611b55f01475680faf8d3ccac525b/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_5e13e082e96946868ae0754897acb207/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:34:10,341: {'input-0-0': [<tf.Tensor 'conv2d_d8c21a2ea8ed4ea1a3cf93ffcc056289/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_44e611b55f01475680faf8d3ccac525b/Identity:0' shape=(None, 179) dtype=float32>, <tf.Tensor 'dense_1_5e13e082e96946868ae0754897acb207/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:34:10,341: Using input Tensor("input_1:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_1_5e13e082e96946868ae0754897acb207/Identity:0", shape=(None, 10), dtype=float32)
+WARNING - 2020-05-05 17:34:10,473: From ./base/kerascodeepneat.py:465: Model.fit_generator (from tensorflow.python.keras.engine.training) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use Model.fit, which supports generators.
+WARNING - 2020-05-05 17:34:10,546: sample_weight modes were coerced from
+  ...
+    to  
+  ['...']
+WARNING - 2020-05-05 17:34:42,713: Early stopping conditioned on metric `val_acc` which is not available. Available metrics are: loss,accuracy,val_loss,val_accuracy
+WARNING - 2020-05-05 17:35:13,901: Early stopping conditioned on metric `val_acc` which is not available. Available metrics are: loss,accuracy,val_loss,val_accuracy
+INFO - 2020-05-05 17:35:13,903: Fitness for individual 9 using blueprint 13 after 2 epochs: {'loss': [0.7328600202378966, 0.438984555812012], 'accuracy': [0.76119053, 0.8608866], 'val_loss': [0.31629797792434694, 0.2798719488143921], 'val_accuracy': [0.8972, 0.9109]}
+INFO - 2020-05-05 17:35:13,903: Scoring one individual
+INFO - 2020-05-05 17:35:15,428: Test scores for individual 9 using blueprint 13 after training: [0.2798719501510262, 0.9109]
+INFO - 2020-05-05 17:35:15,428: Full model training scores: [0.2798719501510262, 0.9109]
+INFO - 2020-05-05 17:35:15,428: Full model training history: {'loss': [0.7328600202378966, 0.438984555812012], 'accuracy': [0.76119053, 0.8608866], 'val_loss': [0.31629797792434694, 0.2798719488143921], 'val_accuracy': [0.8972, 0.9109]}
+INFO - 2020-05-05 17:35:15,805: Training 10 for 2 epochs. Blueprint: 12.
+INFO - 2020-05-05 17:35:15,805: Fitting one individual for 2 epochs
+TOPOLOGY - 2020-05-05 17:35:15,805: Starting assembling of blueprint 12.
+TOPOLOGY - 2020-05-05 17:35:16,242: Generated the assembled graph for blueprint 12: ['input-0-0', 'intermed-0-0', 'intermed-1-0', 'intermed-1-1', 'intermed-1-2', 'intermed-2-0', 'intermed-2-2', 'output-0-0']
+INFO - 2020-05-05 17:35:16,242: Generating keras layers
+INFO - 2020-05-05 17:35:16,242: Adding the Input() layer
+TOPOLOGY - 2020-05-05 17:35:16,245: Added Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32)
+TOPOLOGY - 2020-05-05 17:35:16,246: input-0-0: Working on conv2d_1_cb9b47eb5be9440f8073dd9b193e8927. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,253: input-0-0: Added [<tf.Tensor 'conv2d_1_cb9b47eb5be9440f8073dd9b193e8927/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,254: intermed-0-0: Working on conv2d_2_463d164fbde44f4d9262b4867482e77d. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 38, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,254: intermed-0-0: is conv2d_1_cb9b47eb5be9440f8073dd9b193e8927/Identity:0 conv2d: True. is conv2d_2_463d164fbde44f4d9262b4867482e77d dense: False
+TOPOLOGY - 2020-05-05 17:35:16,259: intermed-0-0: Added [<tf.Tensor 'conv2d_2_463d164fbde44f4d9262b4867482e77d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,273: intermed-0-0: Added complement [<tf.Tensor 'conv2d_2_463d164fbde44f4d9262b4867482e77d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_9_7d0fcc7e7880471e818b97057e026a4e/Identity:0' shape=(None, 28, 28, 38) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,274: intermed-1-0: Working on conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 44, 'kernel_size': 3, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,274: intermed-1-0: is conv2d_2_463d164fbde44f4d9262b4867482e77d/Identity:0 conv2d: True. is conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28 dense: False
+TOPOLOGY - 2020-05-05 17:35:16,280: intermed-1-0: Added [<tf.Tensor 'conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,292: intermed-1-0: Added complement [<tf.Tensor 'conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_10_81cee147bc014e2193e35bb65687c310/Identity:0' shape=(None, 28, 28, 44) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,293: intermed-1-1: Working on conv2d_4_441116df88584b61bb590a6f40fbf646. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 34, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,293: intermed-1-1: is conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28/Identity:0 conv2d: True. is conv2d_4_441116df88584b61bb590a6f40fbf646 dense: False
+TOPOLOGY - 2020-05-05 17:35:16,298: intermed-1-1: Added [<tf.Tensor 'conv2d_4_441116df88584b61bb590a6f40fbf646/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,310: intermed-1-1: Added complement [<tf.Tensor 'conv2d_4_441116df88584b61bb590a6f40fbf646/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_11_48cc6a7f3db84d47a049bd13b62c5802/Identity:0' shape=(None, 28, 28, 34) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,311: intermed-1-2: Working on conv2d_5_127a4b640c78477d85961168dff7327a. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 42, 'kernel_size': 5, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,311: intermed-1-2: is conv2d_4_441116df88584b61bb590a6f40fbf646/Identity:0 conv2d: True. is conv2d_5_127a4b640c78477d85961168dff7327a dense: False
+TOPOLOGY - 2020-05-05 17:35:16,317: intermed-1-2: Added [<tf.Tensor 'conv2d_5_127a4b640c78477d85961168dff7327a/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,328: intermed-1-2: Added complement [<tf.Tensor 'conv2d_5_127a4b640c78477d85961168dff7327a/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_12_981599545535410fab5850349db26f9b/Identity:0' shape=(None, 28, 28, 42) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,329: intermed-2-0: Working on conv2d_6_555e5823b1ff48538479936313c80e3f. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 40, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,330: intermed-2-0: is conv2d_5_127a4b640c78477d85961168dff7327a/Identity:0 conv2d: True. is conv2d_6_555e5823b1ff48538479936313c80e3f dense: False
+TOPOLOGY - 2020-05-05 17:35:16,335: intermed-2-0: Added [<tf.Tensor 'conv2d_6_555e5823b1ff48538479936313c80e3f/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,347: intermed-2-0: Added complement [<tf.Tensor 'conv2d_6_555e5823b1ff48538479936313c80e3f/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_13_07b05c52e57d4758a74f32ca4e0ca5fb/Identity:0' shape=(None, 28, 28, 40) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,348: intermed-2-2: Working on conv2d_7_76342c5136ca495f804235a07664a509. Specs: [<class 'tensorflow.python.keras.layers.convolutional.Conv2D'>, {'filters': 30, 'kernel_size': 1, 'strides': 1, 'data_format': 'channels_last', 'padding': 'same', 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,348: intermed-2-2: is conv2d_6_555e5823b1ff48538479936313c80e3f/Identity:0 conv2d: True. is conv2d_7_76342c5136ca495f804235a07664a509 dense: False
+TOPOLOGY - 2020-05-05 17:35:16,353: intermed-2-2: Added [<tf.Tensor 'conv2d_7_76342c5136ca495f804235a07664a509/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,365: intermed-2-2: Added complement [<tf.Tensor 'conv2d_7_76342c5136ca495f804235a07664a509/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_14_29e55bde0454423ca89d48bdf9682960/Identity:0' shape=(None, 28, 28, 30) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,366: output-0-0: Working on dense_2_279f49da1d6e4989880517e53f5d2aea. Specs: [<class 'tensorflow.python.keras.layers.core.Dense'>, {'units': 190, 'activation': 'relu'}]
+TOPOLOGY - 2020-05-05 17:35:16,366: output-0-0: is conv2d_7_76342c5136ca495f804235a07664a509/Identity:0 conv2d: True. is dense_2_279f49da1d6e4989880517e53f5d2aea dense: True
+INFO - 2020-05-05 17:35:16,366: Adding a Flatten() layer between conv2d_7_76342c5136ca495f804235a07664a509/Identity:0 and dense_2_279f49da1d6e4989880517e53f5d2aea
+TOPOLOGY - 2020-05-05 17:35:16,369: output-0-0: Added [<tf.Tensor 'flatten_1/Identity:0' shape=(None, 23520) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,380: output-0-0: Added [<tf.Tensor 'dense_2_279f49da1d6e4989880517e53f5d2aea/Identity:0' shape=(None, 190) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,385: output-0-0: Added complement [<tf.Tensor 'dense_2_279f49da1d6e4989880517e53f5d2aea/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_5f9dce817b8849859a9911bb2b7485d7/Identity:0' shape=(None, 10) dtype=float32>]
+TOPOLOGY - 2020-05-05 17:35:16,385: {'input-0-0': [<tf.Tensor 'conv2d_1_cb9b47eb5be9440f8073dd9b193e8927/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-0-0': [<tf.Tensor 'conv2d_2_463d164fbde44f4d9262b4867482e77d/Identity:0' shape=(None, 28, 28, 38) dtype=float32>, <tf.Tensor 'dropout_9_7d0fcc7e7880471e818b97057e026a4e/Identity:0' shape=(None, 28, 28, 38) dtype=float32>], 'intermed-1-0': [<tf.Tensor 'conv2d_3_6cc81a21996f413aa9e33fbd35e6fa28/Identity:0' shape=(None, 28, 28, 44) dtype=float32>, <tf.Tensor 'dropout_10_81cee147bc014e2193e35bb65687c310/Identity:0' shape=(None, 28, 28, 44) dtype=float32>], 'intermed-1-1': [<tf.Tensor 'conv2d_4_441116df88584b61bb590a6f40fbf646/Identity:0' shape=(None, 28, 28, 34) dtype=float32>, <tf.Tensor 'dropout_11_48cc6a7f3db84d47a049bd13b62c5802/Identity:0' shape=(None, 28, 28, 34) dtype=float32>], 'intermed-1-2': [<tf.Tensor 'conv2d_5_127a4b640c78477d85961168dff7327a/Identity:0' shape=(None, 28, 28, 42) dtype=float32>, <tf.Tensor 'dropout_12_981599545535410fab5850349db26f9b/Identity:0' shape=(None, 28, 28, 42) dtype=float32>], 'intermed-2-0': [<tf.Tensor 'conv2d_6_555e5823b1ff48538479936313c80e3f/Identity:0' shape=(None, 28, 28, 40) dtype=float32>, <tf.Tensor 'dropout_13_07b05c52e57d4758a74f32ca4e0ca5fb/Identity:0' shape=(None, 28, 28, 40) dtype=float32>], 'intermed-2-2': [<tf.Tensor 'conv2d_7_76342c5136ca495f804235a07664a509/Identity:0' shape=(None, 28, 28, 30) dtype=float32>, <tf.Tensor 'dropout_14_29e55bde0454423ca89d48bdf9682960/Identity:0' shape=(None, 28, 28, 30) dtype=float32>], 'output-0-0': [<tf.Tensor 'dense_2_279f49da1d6e4989880517e53f5d2aea/Identity:0' shape=(None, 190) dtype=float32>, <tf.Tensor 'dense_3_5f9dce817b8849859a9911bb2b7485d7/Identity:0' shape=(None, 10) dtype=float32>]}
+TOPOLOGY - 2020-05-05 17:35:16,385: Using input Tensor("input_2:0", shape=(None, 28, 28, 1), dtype=float32) and output Tensor("dense_3_5f9dce817b8849859a9911bb2b7485d7/Identity:0", shape=(None, 10), dtype=float32)
+WARNING - 2020-05-05 17:35:16,610: sample_weight modes were coerced from
+  ...
+    to  
+  ['...']
+WARNING - 2020-05-05 17:41:10,169: Early stopping conditioned on metric `val_acc` which is not available. Available metrics are: loss,accuracy,val_loss,val_accuracy
+WARNING - 2020-05-05 17:47:04,313: Early stopping conditioned on metric `val_acc` which is not available. Available metrics are: loss,accuracy,val_loss,val_accuracy
+INFO - 2020-05-05 17:47:04,315: Fitness for individual 10 using blueprint 12 after 2 epochs: {'loss': [2.3099636808555437, 2.3016285268079146], 'accuracy': [0.111387625, 0.112389766], 'val_loss': [2.30201654586792, 2.301334758758545], 'val_accuracy': [0.1135, 0.1135]}
+INFO - 2020-05-05 17:47:04,315: Scoring one individual
+INFO - 2020-05-05 17:47:21,531: Test scores for individual 10 using blueprint 12 after training: [2.301334705352783, 0.1135]
+INFO - 2020-05-05 17:47:21,532: Full model training scores: [2.301334705352783, 0.1135]
+INFO - 2020-05-05 17:47:21,532: Full model training history: {'loss': [2.3099636808555437, 2.3016285268079146], 'accuracy': [0.111387625, 0.112389766], 'val_loss': [2.30201654586792, 2.301334758758545], 'val_accuracy': [0.1135, 0.1135]}
