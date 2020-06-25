@@ -482,7 +482,7 @@ class Individual:
         """
         
         logging.info(f"Scoring one individual")
-        scores = self.model.evaluate(test_x, test_y, verbose=1)
+        scores = self.model.evaluate(test_x, test_y, verbose=2)
         
         #Update scores for blueprints (and underlying modules)
         self.blueprint.update_scores(scores)
@@ -520,7 +520,7 @@ for individual in self.individuals:
     for aaaaa in iteration[0]:
         print("iteration type: ", type(aaaaa))
 """
-def func(individual, custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, iteration):
+def func(individual, custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, iteration, intra_size):
     if (custom_fit_args is not None):
         history = individual.fit(input_x, input_y, training_epochs, validation_split, current_generation=current_generation, custom_fit_args=custom_fit_args)
     else:
@@ -531,7 +531,7 @@ def func(individual, custom_fit_args, input_x, input_y, test_x, test_y, training
                             (None if individual.blueprint.species == None else individual.blueprint.species.name),
                             current_generation]
 
-def func2(individuals, custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, iteration, thread_num):
+def func2(individuals, custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, iteration, thread_num, intra_size):
     #import tensorflow as tf
     #from tensorflow import keras
     #import keras
@@ -546,10 +546,19 @@ def func2(individuals, custom_fit_args, input_x, input_y, test_x, test_y, traini
     from tensorflow import keras
     #K.set_session(tf.Session())
 
+    tt = time.time()
+    print("thread "+str(thread_id)+" start at: " + str(tt))
+
     #with
     tf.compat.v1.keras.backend.set_session(tf.compat.v1.Session())
     #tf.compat.v1.keras.backend.set_session(tf.compat.v1.Session(config=tf.compat.v1.ConfigProto()))
     #with tf.compat.v1.Session(config=tf.compat.v1.ConfigProto()) as session:
+    tf.config.threading.set_inter_op_parallelism_threads(1)
+    tf.config.threading.set_intra_op_parallelism_threads(intra_size)
+    intra_num = tf.config.threading.get_intra_op_parallelism_threads()
+    inter_num = tf.config.threading.get_inter_op_parallelism_threads()
+    print("intra_num: "+str(intra_num)+", inter_num: "+str(inter_num))
+    #tf.config.threading.set_inter_op_parallelism_threads()
     for index in range(thread_id, len(individuals), thread_num):
         individual = individuals[index]
         if (custom_fit_args is not None):
@@ -561,6 +570,8 @@ def func2(individuals, custom_fit_args, input_x, input_y, test_x, test_y, traini
         iteration[index] = [individual.name, individual.blueprint.mark, score, individual.blueprint.get_kmeans_representation(),
                                 (None if individual.blueprint.species == None else individual.blueprint.species.name),
                                 current_generation]
+    tt = time.time()
+    print("thread "+str(thread_id)+" end at: " + str(tt))
 
 
 class Population:
@@ -1050,7 +1061,7 @@ class Population:
             else:
                  blueprint.use_count == 0                
 
-    def iterate_fitness(self, training_epochs=1, validation_split=0.15, current_generation=0, thread_num=None):
+    def iterate_fitness(self, training_epochs=1, validation_split=0.15, current_generation=0, thread_num=None, intra_size=1):
         """
         Fits the individuals and generates scores.
 
@@ -1076,6 +1087,10 @@ class Population:
 
         print("in iterate_fitness: train "+str(len(self.individuals))+" individuals for this generation")
         if thread_num is None or thread_num == 1:
+
+            tf.config.threading.set_inter_op_parallelism_threads(1)
+            tf.config.threading.set_intra_op_parallelism_threads(intra_size)
+
             for individual in self.individuals:
     
                 print("model type: ", type(individual.model))
@@ -1104,7 +1119,7 @@ class Population:
                 p_list = []
                 for individual in self.individuals:
                     l.append([])
-                    p = mp.Process(target=func, args=(individual, self.datasets.custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, l))
+                    p = mp.Process(target=func, args=(individual, self.datasets.custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, l, intra_size))
                     p.start()
                     p_list.append(p)
                     thread_id += 1
@@ -1112,11 +1127,27 @@ class Population:
                     p.join()
             else:
                 p_list = []
+
+                workload_size = [len(individual.blueprint.module_graph.nodes()) for individual in self.individuals]
+                def graph_len(individual):
+                    return len(individual.blueprint.module_graph.nodes())
+                self.individuals.sort(key=graph_len)
+                last_half = self.individuals[len(self.individuals) // 2:]
+                last_half.sort(reverse=True, key=graph_len)
+                self.individuals[len(self.individuals) // 2:] = last_half
+
+                print("workload_size:")
+                print(workload_size)
+
+                workload_size = [len(individual.blueprint.module_graph.nodes()) for individual in self.individuals]
+                print("workload_size:")
+                print(workload_size)
+
                 for i in range(len(self.individuals)):
                     l.append([])
 
                 for thread_id in range(thread_num):
-                    p = mp.Process(target=func2, args=(self.individuals, self.datasets.custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, l, thread_num))
+                    p = mp.Process(target=func2, args=(self.individuals, self.datasets.custom_fit_args, input_x, input_y, test_x, test_y, training_epochs, validation_split, current_generation, thread_id, l, thread_num, intra_size))
                     p.start()
                     p_list.append(p)
 
@@ -1143,7 +1174,7 @@ class Population:
 
         return iteration
 
-    def iterate_generations(self, generations=1, training_epochs=1, validation_split=0.15, mutation_rate=0.5, crossover_rate=0.2, elitism_rate=0.1, possible_components=None, possible_complementary_components=None, thread_num=None):
+    def iterate_generations(self, generations=1, training_epochs=1, validation_split=0.15, mutation_rate=0.5, crossover_rate=0.2, elitism_rate=0.1, possible_components=None, possible_complementary_components=None, thread_num=None, intra_size=1):
         """
         Manages generation iterations, applying the genetic algorithm in fact.
 
@@ -1172,7 +1203,7 @@ class Population:
             logging.log(21, f"Created individuals for blueprints: {[(item.name, item.blueprint.mark) for item in self.individuals]}")
 
             # Iterate fitness and record the iteration results
-            iteration = self.iterate_fitness(training_epochs, validation_split, current_generation=generation, thread_num=thread_num)
+            iteration = self.iterate_fitness(training_epochs, validation_split, current_generation=generation, thread_num=thread_num, intra_size=intra_size)
             with open(f"{basepath}iterations.csv", "a", newline="") as csv_history:
                 csv_history_writer = csv.writer(csv_history)
                 csv_history_writer.writerows(iteration)
